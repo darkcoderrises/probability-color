@@ -1,23 +1,24 @@
 import numpy as np
 from scipy.ndimage import imread
+from scipy import stats
 
 class ImageUtils(object):
 
-    def read_image(image_name):
-        return imread(image_name)
+    def read_image(self, image_name):
+        return imread(image_name, 'L')
 
-    def image_filter(im):
+    def image_filter(self, im):
         n = 8
-        im_pad = np.pad(im, n/2, 'constant')
+        im_pad = np.pad(im, n/2, 'edge')
 
-        lenX, lenY, channel = a.shape
-        filter_image = np.zeros(im.shape)
+        lenX, lenY = im.shape
+        filter_image = np.zeros(im.shape, dtype=np.int)
 
-        for ch in range(channel):
-            for i in xrange(lenX - n/2):
-                for j in xrange(lenY - n/2):
-                    filter_image[i,j,ch] = mode(a[i:i+n,j:j+n,ch])
-                    #TODO mode
+        for i in xrange(lenX):
+            for j in xrange(lenY):
+                pad = im_pad[i:(i+n), j:(j+n)]
+                mode = stats.mode(pad, axis=None)
+                filter_image[i][j] = mode[0][0]
 
         return filter_image
 
