@@ -1,4 +1,5 @@
 from segment import Segment
+from utils import ColorUtils
 
 import numpy as np
 from scipy import ndimage
@@ -12,6 +13,9 @@ class Group(object):
 
         self.max_seg_area = 0
 
+    def dilate(self):
+        self.dilated_image = ndimage.binary_dilation(self.im)
+
     def find_components(self):
         components, nr_objects = ndimage.label(self.im) 
 
@@ -23,7 +27,19 @@ class Group(object):
             self.segments.append(segment)
             self.max_seg_area = max(self.max_seg_area, segment.area)
             self.area += segment.area
-            
+
+    def set_lab(self, l, a, b):
+        self.lab = [l,a,b]
+
+    def get_lab(self):
+        return np.asarray(self.lab)
+
+    def get_lightness(self):
+        return self.lab[0]
+
+    def get_saturation(self):
+        return ColorUtils.saturation(*self.lab)
+
     def get_segments(self):
         segment_centers = []
         segment_sizes = []

@@ -1,4 +1,6 @@
 from utils import ImageUtils
+from utils import ColorUtils
+from utils import check_group_collide
 from segment import Segment
 from group import Group
 
@@ -6,6 +8,7 @@ from scipy import ndimage
 from scipy.misc import imsave
 import numpy as np
 from skimage import color
+from itertools import combinations
 
 
 class ImageHandler:
@@ -69,13 +72,31 @@ class ImageHandler:
 
             indexes = np.where(gr.im)
             l, a, b = self.color_im[indexes[0][0], indexes[1][0], :]
+            gr.set_lab(l,a,b)
 
             color_data.append({
                 'lightness': l,
-                'saturation': ((a**2 + b**2)**0.5)/((l**2 + a**2 + b**2)**0.5)
+                'saturation': gr.get_saturation(),
             })
+
+            gr.dilate()
+            self.groups.append(gr)
 
         return size_data, color_data
 
     def create_pairwise(self):
+        pairwise_data = []
+        for gr1, gr2 in combinations(self.groups, 2):
+            if not check_group_collide(gr1, gr2):
+                continue
+
+            pairwise_data.append({
+                'color1': gr1.get_lab(),
+                'color2': gr2.get_lab(),
+                'perceptual_distance': np.linalg.norm(gr1.get_lab() - gr2.get_lab()),
+                'relative_lightness': np.absolute(gr1.get_lightness() - gr2.get_lightness()),
+                'relative_saturation': np.absolute(gr1.get_saturation() - gr2.get_saturation()),
+                'chromatic_difference': ColorUtils.chromatic_difference(*(gr1.get_lab() - gr2.get_lab()))
+            })
+        return pairwise_data
 

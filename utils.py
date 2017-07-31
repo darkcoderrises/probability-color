@@ -2,6 +2,18 @@ import numpy as np
 from scipy.misc import imread
 from scipy import stats
 
+def check_group_collide(gr1, gr2):
+    return sum(sum(gr1.dilated_image * gr2.dilated_image)) > 0
+
+class ColorUtils(object):
+    @staticmethod
+    def chromatic_difference(l, a, b):
+        return float(a**2 + b**2) / (l**2 + a**2 + b**2)
+
+    @staticmethod
+    def saturation(l,a,b):
+        return  float(a**2 + b**2) / (l**2 + a**2 + b**2) ** 0.5
+
 class ImageUtils(object):
     def read_image_color(self, image_name):
         return imread(image_name, mode='RGB')
