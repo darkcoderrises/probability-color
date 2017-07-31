@@ -86,17 +86,28 @@ class ImageHandler:
 
     def create_pairwise(self):
         pairwise_data = []
+        enclosure_strengths = 0.0
+
         for gr1, gr2 in combinations(self.groups, 2):
             if not check_group_collide(gr1, gr2):
                 continue
 
+            dilate = lambda gr: ndimage.binary_dilation(gr.dilated_image)
+            e_strength = sum(sum(dilate(gr1) * dilate(gr2)))
+            enclosure_strengths += e_strength
+
             pairwise_data.append({
                 'color1': gr1.get_lab(),
                 'color2': gr2.get_lab(),
+                'enclosure_strength': e_strength,
                 'perceptual_distance': np.linalg.norm(gr1.get_lab() - gr2.get_lab()),
                 'relative_lightness': np.absolute(gr1.get_lightness() - gr2.get_lightness()),
                 'relative_saturation': np.absolute(gr1.get_saturation() - gr2.get_saturation()),
                 'chromatic_difference': ColorUtils.chromatic_difference(*(gr1.get_lab() - gr2.get_lab()))
             })
-        return pairwise_data
+
+        return map(lambda d : d.update({'enclosure_strength': d['enclosure_strength']/enclosure_strengths}) or d, pairwise_data)
+
+    def create_compatibility(self):
+        pass
 

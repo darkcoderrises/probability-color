@@ -54,7 +54,8 @@ class Group(object):
                 'relative_sizes': [segment.area/self.area, segment.area/self.max_seg_area],
                 'elongation': segment.get_elongation(),
                 'centrality': segment.centrality(),
-                'role_label': self.label
+                'role_label': self.label,
+                'area': segment.area
             })
 
         segment_spread = np.cov(segment_centers)
@@ -64,6 +65,7 @@ class Group(object):
             'segment_spread': segment_spread,
             'each_segment_data': each_segment_data,
             'number_of_segments': number_of_segments,
+            'area': self.area,
             'segment_sizes': segment_sizes
         }
 
