@@ -1,11 +1,13 @@
 import numpy as np
-from scipy.ndimage import imread
+from scipy.misc import imread
 from scipy import stats
 
 class ImageUtils(object):
+    def read_image_color(self, image_name):
+        return imread(image_name, mode='RGB')
 
     def read_image(self, image_name):
-        return imread(image_name, 'L')
+        return imread(image_name, mode='L')
 
     def image_filter(self, im):
         n = 8
