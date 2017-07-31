@@ -5,5 +5,9 @@ if __name__ == "__main__":
 
     ih.set_up()
     ih.find_components()
-    ih.create_groups()
+    data = ih.create_groups()
+
+    from pprint import pprint 
+
+    pprint(data)
 

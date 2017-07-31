@@ -77,3 +77,5 @@ class ImageHandler:
 
         return size_data, color_data
 
+    def create_pairwise(self):
+

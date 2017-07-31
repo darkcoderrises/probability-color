@@ -1,5 +1,6 @@
 *.swp
 *.pyc
 .undodir/
+c3/
 Session.vim
 im/
