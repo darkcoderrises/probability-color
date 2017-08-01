@@ -33,7 +33,7 @@ class ImageUtils(object):
             for j in xrange(lenY):
                 pad = im_pad[i:(i+n), j:(j+n)]
                 mode = Counter(pad.flatten()).most_common(1)
-                filter_image[i][j] = mode[0]
+                filter_image[i][j] = mode[0][0]
 
         return filter_image
 
