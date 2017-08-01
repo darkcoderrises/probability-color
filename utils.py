@@ -1,6 +1,7 @@
 import numpy as np
 from scipy.misc import imread
 from scipy import stats
+from collections import Counter
 
 def check_group_collide(gr1, gr2):
     return sum(sum(gr1.dilated_image * gr2.dilated_image)) > 0
@@ -31,8 +32,8 @@ class ImageUtils(object):
         for i in xrange(lenX):
             for j in xrange(lenY):
                 pad = im_pad[i:(i+n), j:(j+n)]
-                mode = stats.mode(pad, axis=None)
-                filter_image[i][j] = mode[0][0]
+                mode = Counter(pad.flatten()).most_common(1)
+                filter_image[i][j] = mode[0]
 
         return filter_image
 
