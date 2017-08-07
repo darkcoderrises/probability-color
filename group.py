@@ -10,7 +10,9 @@ class Group(object):
         self.label = label
         self.segments = []
         self.area = 0.0
-        self.max_seg_area = 0.0
+        self.max_seg_area = 0.001
+
+        self.memory = None
 
     def dilate(self):
         self.dilated_image = ndimage.binary_dilation(self.im)
@@ -40,6 +42,9 @@ class Group(object):
         return ColorUtils.saturation(*self.lab)
 
     def get_segments(self):
+        if self.memory:
+            return self.memory
+
         segment_centers = []
         segment_sizes = []
 
@@ -72,11 +77,12 @@ class Group(object):
         else:
             segment_spread = np.cov(np.asarray([segment_centers[0], segment_centers[0]]).T)
 
-        return {
+        self.memory = {
             'segment_spread': segment_spread,
             'each_segment_data': each_segment_data,
             'number_of_segments': number_of_segments,
             'area': self.area,
             'segment_sizes': segment_stats
         }
+        return self.memory
 

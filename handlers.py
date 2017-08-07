@@ -1,6 +1,7 @@
 from utils import ImageUtils
 from utils import ColorUtils
 from utils import check_group_collide
+from utils import prepare_group
 from segment import Segment
 from group import Group
 
@@ -20,9 +21,9 @@ class ImageHandler:
         self.backgroundColor = -1
         self.noises = []
 
-        self.foregroundSize = 0
-        self.backgroundSize = 0
-        self.max_group_size = 0
+        self.foregroundSize = 0.001
+        self.backgroundSize = 0.001
+        self.max_group_size = 0.001
 
         self.groups = []
 
@@ -86,28 +87,22 @@ class ImageHandler:
         return size_data, color_data
 
     def create_pairwise(self):
-        pairwise_data = []
-        enclosure_strengths = 0.0
 
         for gr1, gr2 in combinations(self.groups, 2):
             if not check_group_collide(gr1, gr2):
                 continue
 
             dilate = lambda gr: ndimage.binary_dilation(gr.dilated_image)
-            e_strength = sum(sum(dilate(gr1) * dilate(gr2)))
-            enclosure_strengths += e_strength
+            enclosure = lambda gr1, gr2: sum(sum(dilate(gr1) * gr2.im)) / float(sum(sum(dilate(gr1) - gr1.im)))
 
-            pairwise_data.append({
-                'color1': gr1.get_lab(),
-                'color2': gr2.get_lab(),
-                'enclosure_strength': e_strength,
+            pairwise_data = {
                 'perceptual_distance': np.linalg.norm(gr1.get_lab() - gr2.get_lab()),
                 'relative_lightness': np.absolute(gr1.get_lightness() - gr2.get_lightness()),
                 'relative_saturation': np.absolute(gr1.get_saturation() - gr2.get_saturation()),
                 'chromatic_difference': ColorUtils.chromatic_difference(*(gr1.get_lab() - gr2.get_lab()))
-            })
+            }
 
-        return map(lambda d : d.update({'enclosure_strength': d['enclosure_strength']/enclosure_strengths}) or d, pairwise_data)
+            yield prepare_group(gr1.memory) + [enclosure(gr1, gr2)] + prepare_group(gr2.memory) + [enclosure(gr2, gr1)], pairwise_data
 
     def create_compatibility(self):
         num_groups = len(self.groups)
