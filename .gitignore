@@ -1,6 +1,9 @@
 *.swp
+*.swo
+*.swn
 *.pyc
 .undodir/
 c3/
+colorcompatibility/
 Session.vim
 im/

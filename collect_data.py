@@ -4,11 +4,12 @@ import sys
 
 if __name__ == "__main__":
     files = glob.glob('./color_lover/*.png')
-    size_data = []
-    color_data = []
+    size_file = open("./result/size_data")
+    color_file = open("./result/color_data")
 
-    for i in files:
-        sys.stdout.write('%s\r' % i)
+
+    for index, i in enumerate(files):
+        sys.stdout.write('%d: %s\r' % index, i)
         sys.stdout.flush()
 
         ih = ImageHandler(i)
@@ -16,14 +17,9 @@ if __name__ == "__main__":
         ih.find_components()
         data = ih.create_groups()
 
-        size_data.extend(data[0])
-        color_data.extend(data[1])
+        for i in data[0]:
+            size_file.write("%s\n" % str(i))
 
-    size_file = open("./result/size_data")
-    color_file = open("./result/color_data")
+        for i in data[1]:
+            color_file.write("%s\n" % str(i))
 
-    for i in size_data:
-        size_file.write("%s\n" % str(i))
-
-    for i in color_data:
-        color_file.write("%s\n" % str(i))

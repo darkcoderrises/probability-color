@@ -9,9 +9,8 @@ class Group(object):
         self.im = im
         self.label = label
         self.segments = []
-        self.area = 0
-
-        self.max_seg_area = 0
+        self.area = 0.0
+        self.max_seg_area = 0.0
 
     def dilate(self):
         self.dilated_image = ndimage.binary_dilation(self.im)
@@ -48,7 +47,7 @@ class Group(object):
 
         for segment in self.segments:
             segment_centers.append(segment.get_center())
-            segment_sizes.append([segment.area, segment.xmin, segment.xmax, segment.ymin, segment.ymax])
+            segment_sizes.append(segment.area)
 
             each_segment_data.append({
                 'relative_sizes': [segment.area/self.area, segment.area/self.max_seg_area],
@@ -58,15 +57,26 @@ class Group(object):
                 'area': segment.area
             })
 
-        segment_spread = np.cov(segment_centers)
         number_of_segments = len(segment_sizes)
+
+        segment_sizes = np.asarray(segment_sizes)
+        segment_stats = [
+            np.max(segment_sizes),
+            np.min(segment_sizes),
+            np.mean(segment_sizes),
+            np.std(segment_sizes)
+        ]
+
+        if number_of_segments != 1:
+            segment_spread = np.cov(np.asarray(segment_centers).T)
+        else:
+            segment_spread = np.cov(np.asarray([segment_centers[0], segment_centers[0]]).T)
 
         return {
             'segment_spread': segment_spread,
             'each_segment_data': each_segment_data,
             'number_of_segments': number_of_segments,
             'area': self.area,
-            'segment_sizes': segment_sizes
+            'segment_sizes': segment_stats
         }
-
 

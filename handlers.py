@@ -82,6 +82,7 @@ class ImageHandler:
             gr.dilate()
             self.groups.append(gr)
 
+        self.groups.sort(key=lambda x: x.area, reverse=True)
         return size_data, color_data
 
     def create_pairwise(self):
@@ -109,5 +110,11 @@ class ImageHandler:
         return map(lambda d : d.update({'enclosure_strength': d['enclosure_strength']/enclosure_strengths}) or d, pairwise_data)
 
     def create_compatibility(self):
-        pass
+        num_groups = len(self.groups)
+        colors = []
+
+        for i in range(5):
+            colors.append(self.groups[i%num_groups].get_lab())
+
+        return colors
 

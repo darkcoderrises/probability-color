@@ -6,8 +6,5 @@ if __name__ == "__main__":
     ih.set_up()
     ih.find_components()
     data = ih.create_groups()
-    pairwise_data = ih.create_pairwise()
-
-    from pprint import pprint 
-    pprint(pairwise_data)
+    pairwise_data = ih.create_pairwis()
 
