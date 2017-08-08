@@ -6,6 +6,8 @@ import sys
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
+import pickle
+
 lightness = "lightness"
 saturation = "saturation"
 
@@ -43,25 +45,34 @@ class Trainer(object):
 
 if __name__ == "__main__":
     files = glob.glob('./color_lover/*.png')
-    test_files = files[:10]
-    train_files = files[10:100]
+    test_files = files[:100]
+    train_files = files[1000:]
 
     group_trainer = Trainer()
     segment_trainer = Trainer()
     pairwise_trainer = Trainer([perceptual_distance, relative_lightness, relative_saturation, chromatic_difference])
 
     for i in train_files:
-        ih = ImageHandler(i)
-        ih.set_up()
-        ih.find_components()
-        data = ih.create_groups()
+        try:
+            ih = ImageHandler(i)
+            ih.set_up()
+            ih.find_components()
+            data = ih.create_groups()
 
-        map(group_trainer.add, ImageUtils.prepare_group_data(data))
-        map(segment_trainer.add, ImageUtils.prepare_segment_data(data))
-        map(pairwise_trainer.add, ih.create_pairwise())
+            map(group_trainer.add, ImageUtils.prepare_group_data(data))
+            map(segment_trainer.add, ImageUtils.prepare_segment_data(data))
+            map(pairwise_trainer.add, ih.create_pairwise())
+        except:
+            continue
+
 
     print "learning"
     group_trainer.train_all()
     segment_trainer.train_all()
     pairwise_trainer.train_all()
+
+    with open('training_models.pkl', 'wb+') as fid:
+        pickle.dump(group_trainer, fid)
+        pickle.dump(segment_trainer, fid)
+        pickle.dump(pairwise_trainer, fid)
 

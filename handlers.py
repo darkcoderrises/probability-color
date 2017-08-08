@@ -57,9 +57,9 @@ class ImageHandler:
                 self.noises.append(color)
 
     def create_groups(self):
-        groups = [[self.backgroundColor, 'background']]
-        [groups.append([i, 'foreground']) for i in self.colors]
-        [groups.append([i, 'noise']) for i in self.noises]
+        groups = [[self.backgroundColor, 0]]
+        [groups.append([i, 1]) for i in self.colors]
+        [groups.append([i, 2]) for i in self.noises]
 
         size_data = []
         color_data = []
@@ -96,11 +96,14 @@ class ImageHandler:
             enclosure = lambda gr1, gr2: sum(sum(dilate(gr1) * gr2.im)) / float(sum(sum(dilate(gr1) - gr1.im)))
 
             pairwise_data = {
-                'perceptual_distance': np.linalg.norm(gr1.get_lab() - gr2.get_lab()),
-                'relative_lightness': np.absolute(gr1.get_lightness() - gr2.get_lightness()),
-                'relative_saturation': np.absolute(gr1.get_saturation() - gr2.get_saturation()),
+                'perceptual_distance': np.linalg.norm(gr1.get_lab() - gr2.get_lab())/100,
+                'relative_lightness': np.absolute(gr1.get_lightness() - gr2.get_lightness())/100,
+                'relative_saturation': np.absolute(gr1.get_saturation() - gr2.get_saturation())/100,
                 'chromatic_difference': ColorUtils.chromatic_difference(*(gr1.get_lab() - gr2.get_lab()))
             }
+
+            for i in pairwise_data.keys():
+                pairwise_data[i] = int(10*round(pairwise_data[i], 1))
 
             yield prepare_group(gr1.memory) + [enclosure(gr1, gr2)] + prepare_group(gr2.memory) + [enclosure(gr2, gr1)], pairwise_data
 
