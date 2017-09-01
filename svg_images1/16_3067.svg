@@ -1,0 +1,2431 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" enable-background="new 0 0 1659.098 1659.098" id="Layer_1" version="1.1" viewBox="0 0 1659.098 1659.098" x="0px" y="0px" xml:space="preserve">
+<ns0:g fill="#FFDB98">
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="143.0319" x2="313.7865" y1="1212.671" y2="1212.671">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DDDDC9" points="209.419,1161.349 143.032,1240.466 276.457,1263.993 313.787,1199.336  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="575.0592" x2="590.7665" y1="919.3171" y2="919.3171">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8F1414" points="575.059,897.739 579.108,920.702 590.766,940.895  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="567.0843" x2="575.0592" y1="875.1254" y2="875.1254">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#958621" points="567.084,852.511 567.084,875.828 575.059,897.739  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_4_" x1="82.1065" x2="257.4093" y1="1104.9867" y2="1104.9867">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8C1186" points="161.224,1048.624 82.107,1115.011 209.419,1161.349 257.409,1104.157  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_5_" x1="567.0843" x2="579.1082" y1="898.2652" y2="898.2652">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#437600" points="567.084,875.828 567.084,899.876 579.108,920.702 575.059,897.739  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_6_" x1="209.4191" x2="340.906" y1="1151.7463" y2="1151.7463">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C48C53" points="340.906,1152.364 257.409,1104.157 209.419,1161.349 313.787,1199.336  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_7_" x1="563.0354" x2="567.0843" y1="829.5488" y2="829.5488">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="567.084,806.586 563.035,829.549 567.084,852.511  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_8_" x1="43.8919" x2="218.4162" y1="988.9332" y2="988.9332">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#70160E" points="133.335,929.242 43.892,980.882 161.224,1048.624 218.416,1000.634  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_9_" x1="558.8596" x2="567.0843" y1="852.6886" y2="852.6886">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#947235" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#012677" points="563.035,829.549 558.86,853.231 567.084,875.828 567.084,852.511  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_10_" x1="161.2238" x2="292.2734" y1="1052.3953" y2="1052.3953">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00CFFF" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EFD895" points="292.273,1062.607 218.416,1000.634 161.224,1048.624 257.409,1104.157  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_11_" x1="257.4093" x2="359.9436" y1="1107.4855" y2="1107.4855">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ABAE91" points="292.273,1062.607 257.409,1104.157 340.906,1152.364 359.944,1119.39  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_12_" x1="554.4832" x2="567.0843" y1="876.5536" y2="876.5536">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2B1A1A" points="567.084,875.828 558.86,853.231 554.483,878.05 567.084,899.876  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_13_" x1="29.549" x2="197.9921" y1="868.0369" y2="868.0369">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B11717" points="126.601,806.831 29.549,842.155 133.335,929.242 197.992,891.913  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_14_" x1="567.0843" x2="575.0592" y1="783.9725" y2="783.9725">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#30021B" points="575.059,761.359 567.084,783.269 567.084,806.586  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_15_" x1="133.3351" x2="259.9657" y1="946.2732" y2="946.2732">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#4B403A" points="259.966,965.77 197.992,891.913 133.335,929.242 218.416,1000.634  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_16_" x1="558.8596" x2="567.0843" y1="806.4091" y2="806.4091">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DAC59A" points="567.084,783.269 558.86,805.867 563.035,829.549 567.084,806.586  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_17_" x1="218.4162" x2="316.7477" y1="1014.1885" y2="1014.1885">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#47CBAF" points="259.966,965.77 218.416,1000.634 292.273,1062.607 316.748,1033.44  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_18_" x1="550.2399" x2="563.0354" y1="829.5489" y2="829.5489">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ECB3B9" points="563.035,829.549 558.86,805.867 550.24,829.549 558.86,853.231  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_19_" x1="292.2734" x2="371.7332" y1="1076.4148" y2="1076.4148">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#00AD8E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E81816" points="371.733,1098.969 316.748,1033.44 292.273,1062.607 359.944,1119.39  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_20_" x1="541.0533" x2="558.8596" y1="853.7997" y2="853.7997">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#0C0B11" points="550.24,829.549 541.053,854.789 554.483,878.05 558.86,853.231  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_21_" x1="39.5137" x2="196.7576" y1="745.9712" y2="745.9712">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#A80E38" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A9913E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#012677" points="141.225,685.111 39.514,703.045 126.601,806.831 196.758,781.296  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_22_" x1="575.0592" x2="590.7666" y1="739.7808" y2="739.7808">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF703F" points="590.767,718.203 579.108,738.396 575.059,761.359  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_23_" x1="126.6006" x2="244.9644" y1="836.6045" y2="836.6045">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#54AAEB" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#67B1DD" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#72B5D4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#76B6D1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9193A3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#A46A73" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#B1334D" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="244.964,864.793 196.758,781.296 126.601,806.831 197.992,891.913  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_24_" x1="567.0843" x2="579.108" y1="760.8327" y2="760.8327">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FE8421" points="579.108,738.396 567.084,759.222 567.084,783.269 575.059,761.359  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_25_" x1="554.4833" x2="567.0843" y1="782.5443" y2="782.5443">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#54AAEB" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#67B1DD" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#72B5D4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#76B6D1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9193A3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#A46A73" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#B1334D" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#450F29" points="567.084,783.269 567.084,759.222 554.483,781.047 558.86,805.867  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_26_" x1="197.9921" x2="289.133" y1="915.2814" y2="915.2814">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="244.964,864.793 197.992,891.913 259.966,965.77 289.133,941.295  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_27_" x1="541.0533" x2="558.8596" y1="805.2982" y2="805.2982">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F3450F" points="554.483,781.047 541.053,804.309 550.24,829.549 558.86,805.867  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_28_" x1="259.9657" x2="331.9042" y1="987.3677" y2="987.3677">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#1A53BC" points="331.904,1015.377 289.133,941.295 259.966,965.77 316.748,1033.44  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_29_" x1="316.7477" x2="550.2399" y1="951.639" y2="951.639">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#27002A" points="541.053,854.789 550.24,829.549 541.053,804.309 375.549,1090.972 331.904,1015.377    316.748,1033.44 371.733,1098.969 526.882,830.244  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_30_" x1="590.7666" x2="613.7292" y1="698.3167" y2="698.3167">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CDCBBC" points="613.729,678.43 598.741,696.292 590.767,718.203  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_31_" x1="73.4832" x2="214.75" y1="626.4449" y2="626.4449">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F3450F" points="176.763,567.779 73.483,567.779 141.225,685.111 214.75,672.146  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_32_" x1="141.2249" x2="247.7254" y1="726.7214" y2="726.7214">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D90F78" points="247.725,762.746 214.75,672.146 141.225,685.111 196.758,781.296  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_33_" x1="579.108" x2="598.7415" y1="717.3441" y2="717.3441">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFE222" points="598.741,696.292 583.284,714.714 579.108,738.396 590.767,718.203  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_34_" x1="196.7576" x2="277.9386" y1="813.7694" y2="813.7694">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8D81B3" points="247.725,762.746 196.758,781.296 244.964,864.793 277.939,845.755  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_35_" x1="567.0843" x2="583.2838" y1="736.9678" y2="736.9678">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#84B89C" points="579.108,738.396 583.284,714.714 567.084,734.02 567.084,759.222  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_36_" x1="549.8191" x2="567.0843" y1="757.5335" y2="757.5335">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="567.084,734.02 549.819,754.596 554.483,781.047 567.084,759.222  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_37_" x1="244.9644" x2="307.1958" y1="893.5255" y2="893.5255">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#471C2B" points="307.196,926.139 277.939,845.755 244.964,864.793 289.133,941.295  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_38_" x1="289.133" x2="554.4833" y1="884.9864" y2="884.9864">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A60303" points="541.053,804.309 554.483,781.047 549.819,754.596 337.05,1008.164 307.196,926.139    289.133,941.295 331.904,1015.377 531.36,777.676  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_39_" x1="331.9042" x2="541.0533" y1="934.3235" y2="934.3235">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0494" style="stop-color:#2BC0F5" />
+		<ns0:stop fill="#FFDB98" offset="0.1046" style="stop-color:#1EDBED" />
+		<ns0:stop fill="#FFDB98" offset="0.1611" style="stop-color:#14EEE7" />
+		<ns0:stop fill="#FFDB98" offset="0.2191" style="stop-color:#0EF9E3" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#0CFDE2" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#4EF33F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#97ED3C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E8E93A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E3D3DA" points="541.053,804.309 531.36,777.676 331.904,1015.377 375.549,1090.972  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_40_" x1="613.7292" x2="643.2494" y1="660.84" y2="660.84">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#A80E38" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A9913E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A25A08" points="643.249,643.25 625.388,658.237 613.729,678.43  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_41_" x1="130.4254" x2="251.4229" y1="504.1227" y2="504.1227">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8C6963" points="232.137,458.401 130.425,440.466 176.763,567.779 251.423,567.779  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_42_" x1="176.7634" x2="268.1649" y1="619.9627" y2="619.9627">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#1A0612" points="268.165,662.728 251.423,567.779 176.763,567.779 214.75,672.146  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_43_" x1="598.7415" x2="625.3876" y1="677.2648" y2="677.2648">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8F1414" points="625.388,658.237 606.966,673.695 598.741,696.292 613.729,678.43  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_44_" x1="214.75" x2="283.5045" y1="712.7368" y2="712.7368">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#030002" points="268.165,662.728 214.75,672.146 247.725,762.746 283.505,749.723  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_45_" x1="583.2838" x2="606.9662" y1="694.2043" y2="694.2043">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F5AF8C" points="598.741,696.292 606.966,673.695 587.66,689.894 583.284,714.714  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_46_" x1="247.7254" x2="298.3588" y1="797.7393" y2="797.7393">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#954937" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A58735" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8F1414" points="298.359,833.966 283.505,749.723 247.725,762.746 277.939,845.755  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_47_" x1="567.0843" x2="587.6603" y1="711.9571" y2="711.9571">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#90816A" points="587.66,689.894 567.084,707.16 567.084,734.02 583.284,714.714  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_48_" x1="277.9386" x2="567.0843" y1="816.6494" y2="816.6494">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E8DCC1" points="549.819,754.596 567.084,734.02 567.084,707.16 313.516,919.928 298.359,833.966    277.939,845.755 307.196,926.139 544.897,726.684  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_49_" x1="307.1958" x2="549.8191" y1="867.4236" y2="867.4236">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFA1A3" points="549.819,754.596 544.897,726.684 307.196,926.139 337.05,1008.164  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_50_" x1="643.2494" x2="678.4305" y1="628.4894" y2="628.4894">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F9FCCD" points="678.431,613.729 658.237,625.388 643.249,643.25  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_51_" x1="208.6101" x2="305.6618" y1="398.1707" y2="398.1707">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F3450F" points="305.662,360.3 208.61,324.976 232.137,458.401 305.662,471.365  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_52_" x1="232.1366" x2="305.6618" y1="513.0899" y2="513.0899">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5C9278" points="305.662,567.779 305.662,471.365 232.137,458.401 251.423,567.779  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_53_" x1="625.3876" x2="658.2373" y1="641.8126" y2="641.8126">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#701E2C" points="658.237,625.388 637.411,637.411 625.388,658.237 643.249,643.25  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_54_" x1="251.4229" x2="305.6618" y1="615.2535" y2="615.2535">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#660506" points="305.662,567.779 251.423,567.779 268.165,662.728 305.662,656.116  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_55_" x1="606.9662" x2="637.4115" y1="655.5532" y2="655.5532">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#731807" points="625.388,658.237 637.411,637.411 615.586,650.013 606.966,673.695  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_56_" x1="268.1649" x2="305.6618" y1="702.9197" y2="702.9197">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF703F" points="305.662,741.659 305.662,656.116 268.165,662.728 283.505,749.723  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_57_" x1="587.6603" x2="615.5858" y1="669.9536" y2="669.9536">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FA3C24" points="615.586,650.013 592.324,663.443 587.66,689.894 606.966,673.695  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_58_" x1="283.5045" x2="592.3243" y1="748.7042" y2="748.7042">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFAC26" points="567.084,707.16 587.66,689.894 592.324,663.443 305.662,828.947 305.662,741.659    283.505,749.723 298.359,833.966 567.084,678.817  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_59_" x1="298.3588" x2="567.0843" y1="799.3728" y2="799.3728">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#9300AB" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#94EC2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DB5858" points="567.084,707.16 567.084,678.817 298.359,833.966 313.516,919.928  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_60_" x1="305.6618" x2="395.1051" y1="305.3258" y2="305.3258">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#AD00A1" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#594736" points="395.105,276.457 305.662,224.817 305.662,360.3 375.819,385.835  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_61_" x1="678.4305" x2="718.2028" y1="602.2479" y2="602.2479">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#F5AE28" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6FBE45" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D2A391" points="718.203,590.767 696.292,598.741 678.431,613.729  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_62_" x1="305.6618" x2="375.8188" y1="420.5419" y2="420.5419">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8F1414" points="359.077,480.784 375.819,385.835 305.662,360.3 305.662,471.365  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_63_" x1="658.2373" x2="696.2921" y1="612.0646" y2="612.0646">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2E696E" points="696.292,598.741 673.695,606.966 658.237,625.388 678.431,613.729  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_64_" x1="637.4115" x2="673.6947" y1="622.1888" y2="622.1888">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FC5D44" points="658.237,625.388 673.695,606.966 650.013,615.586 637.411,637.411  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_65_" x1="305.6618" x2="359.0767" y1="519.5721" y2="519.5721">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B63BE8" points="359.077,480.784 305.662,471.365 305.662,567.779 343.737,567.779  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_66_" x1="615.5858" x2="650.0126" y1="632.7992" y2="632.7992">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#954937" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A58735" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C4BC16" points="650.013,615.586 624.772,624.772 615.586,650.013 637.411,637.411  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_67_" x1="305.6618" x2="343.7371" y1="611.9476" y2="611.9476">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2D4442" points="328.883,652.022 343.737,567.779 305.662,567.779 305.662,656.116  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_68_" x1="305.6618" x2="624.7725" y1="683.2155" y2="683.2155">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5B4805" points="592.324,663.443 615.586,650.013 624.772,624.772 313.725,737.984 328.883,652.022    305.662,656.116 305.662,741.659 597.246,635.531  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_69_" x1="305.6618" x2="597.246" y1="732.239" y2="732.239">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D7DCD8" points="592.324,663.443 597.246,635.531 305.662,741.659 305.662,828.947  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_70_" x1="395.1051" x2="497.7487" y1="228.4092" y2="228.4092">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F1396D" points="497.749,209.419 418.631,143.032 395.105,276.457 459.762,313.787  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_71_" x1="718.2028" x2="761.3589" y1="582.9128" y2="582.9128">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B06F2F" points="761.359,575.059 738.396,579.108 718.203,590.767  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_72_" x1="375.8188" x2="459.7621" y1="340.4212" y2="340.4212">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFFFF" points="426.787,404.386 459.762,313.787 395.105,276.457 375.819,385.835  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_73_" x1="696.2921" x2="738.396" y1="588.9247" y2="588.9247">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F5AF8C" points="738.396,579.108 714.714,583.284 696.292,598.741 718.203,590.767  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_74_" x1="359.0767" x2="426.7867" y1="436.6152" y2="436.6152">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#AB022B" points="426.787,404.386 375.819,385.835 359.077,480.784 396.574,487.396  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_75_" x1="673.6947" x2="714.7137" y1="595.1251" y2="595.1251">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A6C0C4" points="696.292,598.741 714.714,583.284 689.894,587.66 673.695,606.966  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_76_" x1="343.7371" x2="396.5735" y1="524.2814" y2="524.2814">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#42001D" points="367.316,567.779 396.574,487.396 359.077,480.784 343.737,567.779  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_77_" x1="650.0126" x2="689.8944" y1="601.623" y2="601.623">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#622B16" points="689.894,587.66 663.443,592.324 650.013,615.586 673.695,606.966  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_78_" x1="328.8828" x2="663.4425" y1="609.9004" y2="609.9004">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2E7182" points="624.772,624.772 650.013,615.586 663.443,592.324 337.462,649.804 367.316,567.779    343.737,567.779 328.883,652.022 634.466,598.139  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_79_" x1="313.7253" x2="634.4662" y1="668.0618" y2="668.0618">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#4B4345" points="624.772,624.772 634.466,598.139 328.883,652.022 313.725,737.984  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_80_" x1="761.3589" x2="806.5863" y1="571.0717" y2="571.0717">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFD47D" points="806.586,567.084 783.269,567.084 761.359,575.059  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_81_" x1="497.7487" x2="610.4739" y1="169.7579" y2="169.7579">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#A80E38" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A9913E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#012677" points="610.474,161.224 544.087,82.107 497.749,209.419 554.941,257.409  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_82_" x1="738.396" x2="783.2694" y1="573.0962" y2="573.0962">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8F1414" points="783.269,567.084 759.222,567.084 738.396,579.108 761.359,575.059  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_83_" x1="459.7621" x2="554.9411" y1="275.1626" y2="275.1626">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D9BE9D" points="506.734,340.906 554.941,257.409 497.749,209.419 459.762,313.787  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_84_" x1="714.7137" x2="759.2218" y1="575.1841" y2="575.1841">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B5B593" points="738.396,579.108 759.222,567.084 734.02,567.084 714.714,583.284  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_85_" x1="426.7867" x2="506.7343" y1="365.5974" y2="365.5974">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#001449" points="506.734,340.906 459.762,313.787 426.787,404.386 462.566,417.408  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_86_" x1="396.5735" x2="462.5657" y1="447.9379" y2="447.9379">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#012677" points="419.795,491.49 462.566,417.408 426.787,404.386 396.574,487.396  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_87_" x1="689.8944" x2="734.0197" y1="577.3723" y2="577.3723">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#001449" points="734.02,567.084 707.16,567.084 689.894,587.66 714.714,583.284  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_88_" x1="367.3163" x2="707.1597" y1="539.86" y2="539.86">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CC2181" points="663.443,592.324 689.894,587.66 707.16,567.084 376.15,567.084 419.795,491.49    396.574,487.396 367.316,567.779 677.614,567.779  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_89_" x1="337.4618" x2="677.6139" y1="608.7913" y2="608.7913">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8B025F" points="663.443,592.324 677.614,567.779 367.316,567.779 337.462,649.804  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_90_" x1="610.4739" x2="729.8556" y1="131.154" y2="131.154">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#54AAEB" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#67B1DD" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#72B5D4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#76B6D1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9193A3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#A46A73" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#B1334D" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5B1520" points="729.856,133.335 678.215,43.892 610.474,161.224 658.464,218.416  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_91_" x1="806.5863" x2="852.5116" y1="565.0598" y2="565.0598">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#9300AB" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#94EC2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#070000" points="852.512,567.084 829.549,563.035 806.586,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_92_" x1="554.9411" x2="658.464" y1="226.7486" y2="226.7486">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#070000" points="596.491,292.273 658.464,218.416 610.474,161.224 554.941,257.409  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_93_" x1="783.2694" x2="829.549" y1="562.9719" y2="562.9719">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CA221F" points="829.549,563.035 805.867,558.86 783.269,567.084 806.586,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_94_" x1="759.2218" x2="805.8668" y1="560.7838" y2="560.7838">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#09D1F4" points="783.269,567.084 805.867,558.86 781.047,554.483 759.222,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_95_" x1="506.7343" x2="596.4906" y1="308.6765" y2="308.6765">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B69961" points="596.491,292.273 554.941,257.409 506.734,340.906 539.708,359.944  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_96_" x1="734.0197" x2="781.0475" y1="558.4517" y2="558.4517">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFDBC3" points="781.047,554.483 754.596,549.819 734.02,567.084 759.222,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_97_" x1="462.5657" x2="539.7085" y1="383.1894" y2="383.1894">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2E142F" points="484.723,425.473 539.708,359.944 506.734,340.906 462.566,417.408  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_98_" x1="419.7945" x2="754.5956" y1="492.2463" y2="492.2463">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#98CACA" points="707.16,567.084 734.02,567.084 754.596,549.819 428.615,492.34 484.723,425.473    462.566,417.408 419.795,491.49 725.378,545.373  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_99_" x1="376.1502" x2="725.3779" y1="529.2872" y2="529.2872">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FC23D4" points="707.16,567.084 725.378,545.373 419.795,491.49 376.15,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_100_" x1="729.8556" x2="852.2665" y1="113.7706" y2="113.7706">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#954937" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A58735" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C8412D" points="852.266,126.601 816.943,29.549 729.856,133.335 767.185,197.992  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_101_" x1="852.5116" x2="897.7394" y1="571.0717" y2="571.0717">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F9D837" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26522" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E46231" points="897.739,575.059 875.828,567.084 852.512,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_102_" x1="658.464" x2="767.1853" y1="196.6504" y2="196.6504">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F00281" points="693.328,259.966 767.185,197.992 729.856,133.335 658.464,218.416  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_103_" x1="829.549" x2="875.8285" y1="562.9719" y2="562.9719">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5B1520" points="875.828,567.084 853.231,558.859 829.549,563.035 852.512,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_104_" x1="805.8668" x2="853.2312" y1="556.6376" y2="556.6376">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F50062" points="829.549,563.035 853.231,558.859 829.549,550.24 805.867,558.86  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_105_" x1="596.4906" x2="693.3282" y1="267.582" y2="267.582">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FCFFA8" points="693.328,259.966 658.464,218.416 596.491,292.273 625.658,316.748  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_106_" x1="539.7085" x2="625.6578" y1="332.0033" y2="332.0033">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF0101" points="560.129,371.733 625.658,316.748 596.491,292.273 539.708,359.944  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_107_" x1="781.0475" x2="829.549" y1="549.9564" y2="549.9564">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9EA9A2" points="829.549,550.24 804.309,541.053 781.047,554.483 805.867,558.86  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_108_" x1="484.7229" x2="804.3088" y1="457.2134" y2="457.2134">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#AD00A1" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#282202" points="754.596,549.819 781.047,554.483 804.309,541.053 493.262,427.841 560.129,371.733    539.708,359.944 484.723,425.473 776.307,531.601  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_109_" x1="428.6148" x2="776.3073" y1="487.6459" y2="487.6459">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2F0B48" points="754.596,549.819 776.307,531.601 484.723,425.473 428.615,492.34  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_110_" x1="897.7394" x2="940.8949" y1="582.9128" y2="582.9128">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B98F90" points="940.895,590.766 920.702,579.108 897.739,575.059  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_111_" x1="852.2665" x2="973.9869" y1="118.1356" y2="118.1356">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#AB526B" points="973.987,141.225 956.053,39.514 852.266,126.601 877.801,196.758  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_112_" x1="767.1853" x2="877.8014" y1="185.7825" y2="185.7825">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F8ECC9" points="794.305,244.964 877.801,196.758 852.266,126.601 767.185,197.992  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_113_" x1="875.8285" x2="920.7019" y1="573.0962" y2="573.0962">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D74A40" points="920.702,579.108 899.876,567.084 875.828,567.084 897.739,575.059  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_114_" x1="853.2312" x2="899.8761" y1="560.7838" y2="560.7838">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9F7401" points="875.828,567.084 899.876,567.084 878.05,554.483 853.231,558.859  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_115_" x1="693.3282" x2="794.3048" y1="243.5626" y2="243.5626">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F783D2" points="794.305,244.964 767.185,197.992 693.328,259.966 717.802,289.133  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_116_" x1="625.6578" x2="717.8025" y1="295.9349" y2="295.9349">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#719093" points="643.721,331.904 717.802,289.133 693.328,259.966 625.658,316.748  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_117_" x1="829.549" x2="878.0504" y1="549.9564" y2="549.9564">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5CCDE3" points="878.05,554.483 854.789,541.053 829.549,550.24 853.231,558.859  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_118_" x1="560.1287" x2="854.7891" y1="433.4938" y2="433.4938">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FCEB7E" points="804.309,541.053 829.549,550.24 854.789,541.053 568.126,375.549 643.721,331.904    625.658,316.748 560.129,371.733 828.854,526.882  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_119_" x1="493.2617" x2="828.8542" y1="456.3932" y2="456.3932">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#213E4B" points="804.309,541.053 828.854,526.882 560.129,371.733 493.262,427.841  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_120_" x1="973.9869" x2="1091.3188" y1="144.1166" y2="144.1166">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C6BBB7" points="1091.319,176.763 1091.319,73.483 973.987,141.225 986.951,214.75  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_121_" x1="940.8949" x2="980.6676" y1="602.2479" y2="602.2479">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#095F84" points="980.668,613.729 962.806,598.741 940.895,590.766  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_122_" x1="877.8014" x2="986.9514" y1="194.4751" y2="194.4751">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DE6633" points="896.352,247.725 986.951,214.75 973.987,141.225 877.801,196.758  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_123_" x1="920.7019" x2="962.8058" y1="588.9247" y2="588.9247">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B8858C" points="962.806,598.741 944.384,583.284 920.702,579.108 940.895,590.766  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_124_" x1="794.3048" x2="896.3522" y1="237.348" y2="237.348">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#AD00A1" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#3F3A3A" points="896.352,247.725 877.801,196.758 794.305,244.964 813.342,277.939  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_125_" x1="899.8761" x2="944.3842" y1="575.1841" y2="575.1841">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF663D" points="920.702,579.108 944.384,583.284 925.078,567.084 899.876,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_126_" x1="878.0504" x2="925.0782" y1="558.4517" y2="558.4517">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E5D196" points="925.078,567.084 904.502,549.819 878.05,554.483 899.876,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_127_" x1="717.8025" x2="813.3424" y1="276.0801" y2="276.0801">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF816E" points="732.959,307.196 813.342,277.939 794.305,244.964 717.802,289.133  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_128_" x1="643.7206" x2="904.5023" y1="421.8081" y2="421.8081">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F7E256" points="854.789,541.053 878.05,554.483 904.502,549.819 650.934,337.05 732.959,307.196    717.802,289.133 643.721,331.904 881.422,531.36  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_129_" x1="568.1264" x2="881.4224" y1="436.4788" y2="436.4788">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#957270" points="854.789,541.053 881.422,531.36 643.721,331.904 568.126,375.549  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_130_" x1="980.6676" x2="1015.8483" y1="628.4894" y2="628.4894">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ADD8C7" points="1015.848,643.249 1000.861,625.388 980.668,613.729  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_131_" x1="1091.3188" x2="1218.6315" y1="190.9241" y2="190.9241">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A650FF" points="1200.697,232.137 1218.631,130.425 1091.319,176.763 1091.319,251.423  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_132_" x1="962.8058" x2="1000.8606" y1="612.0646" y2="612.0646">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ED29AC" points="1000.861,625.388 985.403,606.966 962.806,598.741 980.668,613.729  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_133_" x1="986.9514" x2="1091.3188" y1="222.4642" y2="222.4642">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5F5EED" points="996.37,268.165 1091.319,251.423 1091.319,176.763 986.951,214.75  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_134_" x1="944.3842" x2="985.4031" y1="595.1251" y2="595.1251">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E6D2D2" points="962.806,598.741 985.403,606.966 969.203,587.66 944.384,583.284  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_135_" x1="896.3522" x2="996.37" y1="249.1273" y2="249.1273">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#9300AB" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#94EC2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C6BBB7" points="996.37,268.165 986.951,214.75 896.352,247.725 909.375,283.505  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_136_" x1="925.0782" x2="969.2035" y1="577.3723" y2="577.3723">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#1A5D1A" points="969.203,587.66 951.938,567.084 925.078,567.084 944.384,583.284  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_137_" x1="813.3424" x2="909.3748" y1="273.0421" y2="273.0421">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEA4" points="825.132,298.359 909.375,283.505 896.352,247.725 813.342,277.939  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_138_" x1="732.9589" x2="951.9381" y1="422.5114" y2="422.5114">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#AE486E" points="904.502,549.819 925.078,567.084 951.938,567.084 739.169,313.516 825.132,298.359    813.342,277.939 732.959,307.196 932.414,544.897  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_139_" x1="650.9343" x2="932.4143" y1="428.5074" y2="428.5074">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9C707D" points="904.502,549.819 932.414,544.897 732.959,307.196 650.934,337.05  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_140_" x1="1015.8483" x2="1045.3685" y1="660.8398" y2="660.8398">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BF565D" points="1045.369,678.43 1033.71,658.237 1015.848,643.249  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_141_" x1="1187.7325" x2="1334.1219" y1="257.136" y2="257.136">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D9AD4E" points="1298.798,305.662 1334.122,208.61 1200.697,232.137 1187.733,305.662  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_142_" x1="1000.8606" x2="1033.7101" y1="641.8125" y2="641.8125">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F9B471" points="1033.71,658.237 1021.686,637.411 1000.861,625.388 1015.848,643.249  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_143_" x1="1091.3188" x2="1200.697" y1="268.8992" y2="268.8992">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A19D60" points="1091.319,305.662 1187.733,305.662 1200.697,232.137 1091.319,251.423  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_144_" x1="996.37" x2="1091.3188" y1="278.5423" y2="278.5423">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#719093" points="1091.319,305.662 1091.319,251.423 996.37,268.165 1002.982,305.662  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_145_" x1="985.4031" x2="1021.6864" y1="622.1888" y2="622.1888">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#00AD8E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#69ABCF" points="1000.861,625.388 1021.686,637.411 1009.085,615.586 985.403,606.966  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_146_" x1="909.3748" x2="1002.9816" y1="286.9134" y2="286.9134">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E0D0B8" points="917.439,305.662 1002.982,305.662 996.37,268.165 909.375,283.505  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_147_" x1="969.2035" x2="1009.0853" y1="601.623" y2="601.623">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D9E86E" points="1009.085,615.586 995.655,592.324 969.203,587.66 985.403,606.966  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_148_" x1="825.132" x2="995.6554" y1="437.9145" y2="437.9145">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#28F584" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#5845BE" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F4E196" points="951.938,567.084 969.203,587.66 995.655,592.324 830.151,305.662 917.439,305.662    909.375,283.505 825.132,298.359 980.281,567.084  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_149_" x1="739.1693" x2="980.2808" y1="432.7216" y2="432.7216">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F87958" points="951.938,567.084 980.281,567.084 825.132,298.359 739.169,313.516  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_150_" x1="1045.3685" x2="1068.3314" y1="698.3167" y2="698.3167">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#192436" points="1068.331,718.203 1060.356,696.292 1045.369,678.43  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_151_" x1="1273.2631" x2="1434.2813" y1="350.3834" y2="350.3834">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C0677D" points="1382.641,395.105 1434.281,305.662 1298.798,305.662 1273.263,375.819  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_152_" x1="1033.7101" x2="1060.3564" y1="677.2647" y2="677.2647">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CFD6A3" points="1060.356,696.292 1052.132,673.695 1033.71,658.237 1045.369,678.43  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_153_" x1="1178.3141" x2="1298.798" y1="340.7402" y2="340.7402">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#598911" points="1178.314,359.077 1273.263,375.819 1298.798,305.662 1187.733,305.662  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_154_" x1="1091.3188" x2="1187.7325" y1="332.3692" y2="332.3692">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#55959D" points="1178.314,359.077 1187.733,305.662 1091.319,305.662 1091.319,343.737  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_155_" x1="1021.6864" x2="1052.1317" y1="655.5532" y2="655.5532">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EEEEE0" points="1033.71,658.237 1052.132,673.695 1043.512,650.013 1021.686,637.411  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_156_" x1="1009.0853" x2="1043.5121" y1="632.7992" y2="632.7992">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#FFDB00" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#AF9F63" points="1043.512,650.013 1034.325,624.772 1009.085,615.586 1021.686,637.411  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_157_" x1="1002.9816" x2="1091.3188" y1="324.6994" y2="324.6994">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F7F5F2" points="1007.076,328.883 1091.319,343.737 1091.319,305.662 1002.982,305.662  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_158_" x1="917.4393" x2="1034.3254" y1="465.2171" y2="465.2171">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#00AD8E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F9D591" points="995.655,592.324 1009.085,615.586 1034.325,624.772 921.114,313.725 1007.076,328.883    1002.982,305.662 917.439,305.662 1023.567,597.246  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_159_" x1="830.1505" x2="1023.5673" y1="451.4539" y2="451.4539">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00CFFF" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E6AC7E" points="995.655,592.324 1023.567,597.246 917.439,305.662 830.151,305.662  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_160_" x1="1345.3114" x2="1516.066" y1="446.4268" y2="446.4268">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#423D3A" points="1449.679,497.749 1516.066,418.631 1382.641,395.105 1345.311,459.762  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_161_" x1="1068.3314" x2="1084.0387" y1="739.7808" y2="739.7808">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#648C08" points="1084.039,761.359 1079.99,738.396 1068.331,718.203  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_162_" x1="1060.3564" x2="1079.9897" y1="717.3441" y2="717.3441">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFF5C7" points="1079.99,738.396 1075.814,714.714 1060.356,696.292 1068.331,718.203  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_163_" x1="1254.7122" x2="1382.6412" y1="417.7904" y2="417.7904">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DDDFD2" points="1254.712,426.787 1345.311,459.762 1382.641,395.105 1273.263,375.819  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_164_" x1="1171.7023" x2="1273.2631" y1="392.9316" y2="392.9316">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFA40B" points="1254.712,426.787 1273.263,375.819 1178.314,359.077 1171.702,396.574  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_165_" x1="1052.1317" x2="1075.8138" y1="694.2042" y2="694.2042">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#911B3D" points="1060.356,696.292 1075.814,714.714 1071.438,689.894 1052.132,673.695  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_166_" x1="1091.3188" x2="1178.3141" y1="370.1553" y2="370.1553">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FC7F48" points="1091.319,367.316 1171.702,396.574 1178.314,359.077 1091.319,343.737  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_167_" x1="1043.5121" x2="1071.4376" y1="669.9535" y2="669.9535">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F5EEB7" points="1071.438,689.894 1066.773,663.443 1043.512,650.013 1052.132,673.695  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_168_" x1="1007.076" x2="1091.3188" y1="496.1627" y2="496.1627">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFFFF" points="1034.325,624.772 1043.512,650.013 1066.773,663.443 1009.294,337.462 1091.319,367.316    1091.319,343.737 1007.076,328.883 1060.959,634.466  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_169_" x1="921.1135" x2="1060.9587" y1="474.0957" y2="474.0957">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#FFDB00" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#7E1313" points="1034.325,624.772 1060.959,634.466 1007.076,328.883 921.114,313.725  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_170_" x1="1401.6886" x2="1576.9913" y1="554.1113" y2="554.1113">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#723115" points="1497.874,610.474 1576.991,544.087 1449.679,497.749 1401.689,554.941  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_171_" x1="1084.0387" x2="1092.0135" y1="783.9725" y2="783.9725">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5BD9F2" points="1092.014,806.587 1092.014,783.269 1084.039,761.359  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_172_" x1="1318.192" x2="1449.6788" y1="507.3516" y2="507.3516">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#A80E38" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A9913E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D9A1F9" points="1318.192,506.734 1401.689,554.941 1449.679,497.749 1345.311,459.762  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_173_" x1="1079.9897" x2="1092.0135" y1="760.8327" y2="760.8327">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0494" style="stop-color:#2BC0F5" />
+		<ns0:stop fill="#FFDB98" offset="0.1046" style="stop-color:#1EDBED" />
+		<ns0:stop fill="#FFDB98" offset="0.1611" style="stop-color:#14EEE7" />
+		<ns0:stop fill="#FFDB98" offset="0.2191" style="stop-color:#0EF9E3" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#0CFDE2" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#4EF33F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#97ED3C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E8E93A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F4D599" points="1092.014,783.269 1092.014,759.222 1079.99,738.396 1084.039,761.359  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_174_" x1="1075.8138" x2="1092.0135" y1="736.9678" y2="736.9678">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F09A8D" points="1079.99,738.396 1092.014,759.222 1092.014,734.02 1075.814,714.714  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_175_" x1="1241.6897" x2="1345.3114" y1="466.7605" y2="466.7605">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EDDA5D" points="1318.192,506.734 1345.311,459.762 1254.712,426.787 1241.69,462.566  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_176_" x1="1167.6078" x2="1254.7122" y1="429.5696" y2="429.5696">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F3C0A6" points="1167.608,419.795 1241.69,462.566 1254.712,426.787 1171.702,396.574  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_177_" x1="1071.4376" x2="1092.0135" y1="711.957" y2="711.957">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00BF9C" points="1092.014,734.02 1092.014,707.16 1071.438,689.894 1075.814,714.714  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_178_" x1="1066.7734" x2="1171.7023" y1="537.238" y2="537.238">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#474048" points="1066.773,663.443 1071.438,689.894 1092.014,707.16 1092.014,376.15 1167.608,419.795    1171.702,396.574 1091.319,367.316 1091.319,677.614  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_179_" x1="1009.2943" x2="1091.3188" y1="507.5378" y2="507.5378">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#95DBFF" points="1066.773,663.443 1091.319,677.614 1091.319,367.316 1009.294,337.462  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_180_" x1="1092.0135" x2="1096.0625" y1="829.5491" y2="829.5491">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#942D75" points="1092.014,852.512 1096.063,829.549 1092.014,806.587  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_181_" x1="1440.6818" x2="1615.2062" y1="670.1647" y2="670.1647">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E3B287" points="1525.763,729.856 1615.206,678.215 1497.874,610.474 1440.682,658.464  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_182_" x1="1366.8246" x2="1497.8741" y1="606.7026" y2="606.7026">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CFE18F" points="1366.825,596.491 1440.682,658.464 1497.874,610.474 1401.689,554.941  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_183_" x1="1092.0135" x2="1100.2384" y1="806.4093" y2="806.4093">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C0DAAB" points="1096.063,829.549 1100.238,805.867 1092.014,783.269 1092.014,806.587  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_184_" x1="1299.1543" x2="1401.6886" y1="551.6124" y2="551.6124">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ABC8C8" points="1366.825,596.491 1401.689,554.941 1318.192,506.734 1299.154,539.708  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_185_" x1="1092.0135" x2="1104.6146" y1="782.5443" y2="782.5443">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EDA0BB" points="1092.014,783.269 1100.238,805.867 1104.615,781.048 1092.014,759.222  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_186_" x1="1233.6251" x2="1318.192" y1="501.1371" y2="501.1371">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DCC3A4" points="1233.625,484.723 1299.154,539.708 1318.192,506.734 1241.69,462.566  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_187_" x1="1092.0135" x2="1109.2789" y1="757.5336" y2="757.5336">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFC300" points="1104.615,781.048 1109.279,754.596 1092.014,734.02 1092.014,759.222  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_188_" x1="1092.0135" x2="1241.6897" y1="587.1951" y2="587.1951">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FAAE1C" points="1092.014,707.16 1092.014,734.02 1109.279,754.596 1166.758,428.615 1233.625,484.723    1241.69,462.566 1167.608,419.795 1113.725,725.378  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_189_" x1="1092.0135" x2="1167.6078" y1="550.764" y2="550.764">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CF7676" points="1092.014,707.16 1113.725,725.378 1167.608,419.795 1092.014,376.15  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_190_" x1="1461.1058" x2="1629.549" y1="791.061" y2="791.061">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F2065F" points="1532.497,852.266 1629.549,816.943 1525.763,729.856 1461.106,767.185  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_191_" x1="1084.0387" x2="1092.0135" y1="875.1254" y2="875.1254">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#201A34" points="1084.039,897.739 1092.014,875.828 1092.014,852.512  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_192_" x1="1092.0135" x2="1100.2384" y1="852.6888" y2="852.6888">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#565CB8" points="1092.014,875.828 1100.238,853.231 1096.063,829.549 1092.014,852.512  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_193_" x1="1399.1322" x2="1525.7628" y1="712.8247" y2="712.8247">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF0101" points="1399.132,693.328 1461.106,767.185 1525.763,729.856 1440.682,658.464  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_194_" x1="1096.0625" x2="1108.858" y1="829.549" y2="829.549">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#977933" points="1096.063,829.549 1100.238,853.231 1108.858,829.549 1100.238,805.867  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_195_" x1="1342.3502" x2="1440.6818" y1="644.9094" y2="644.9094">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B91412" points="1399.132,693.328 1440.682,658.464 1366.825,596.491 1342.35,625.658  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_196_" x1="1100.2384" x2="1118.0446" y1="805.2983" y2="805.2983">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E6BD53" points="1108.858,829.549 1118.045,804.309 1104.615,781.048 1100.238,805.867  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_197_" x1="1287.3646" x2="1366.8246" y1="582.6832" y2="582.6832">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#92B7A6" points="1287.365,560.129 1342.35,625.658 1366.825,596.491 1299.154,539.708  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_198_" x1="1104.6146" x2="1299.1543" y1="644.5159" y2="644.5159">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A87354" points="1109.279,754.596 1104.615,781.048 1118.045,804.309 1231.256,493.262 1287.365,560.129    1299.154,539.708 1233.625,484.723 1127.497,776.307  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_199_" x1="1109.2789" x2="1233.6251" y1="602.461" y2="602.461">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFFFF" points="1109.279,754.596 1127.497,776.307 1233.625,484.723 1166.758,428.615  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_200_" x1="1462.3405" x2="1619.5841" y1="913.1267" y2="913.1267">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2A2215" points="1532.497,852.266 1462.34,877.801 1517.873,973.987 1619.584,956.053  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_201_" x1="1068.3314" x2="1084.0387" y1="919.317" y2="919.317">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#47AC59" points="1068.331,940.895 1079.99,920.702 1084.039,897.739  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_202_" x1="1414.1335" x2="1532.4973" y1="822.4934" y2="822.4934">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FCE186" points="1414.134,794.305 1462.34,877.801 1532.497,852.266 1461.106,767.185  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_203_" x1="1079.9899" x2="1092.0135" y1="898.2651" y2="898.2651">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#805D46" points="1084.039,897.739 1079.99,920.702 1092.014,899.876 1092.014,875.828  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_204_" x1="1369.965" x2="1461.1058" y1="743.8165" y2="743.8165">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="1414.134,794.305 1461.106,767.185 1399.132,693.328 1369.965,717.802  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_205_" x1="1092.0135" x2="1104.6146" y1="876.5536" y2="876.5536">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="1092.014,875.828 1092.014,899.876 1104.615,878.05 1100.238,853.231  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_206_" x1="1100.2384" x2="1118.0446" y1="853.7997" y2="853.7997">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#6AB3B2" points="1104.615,878.05 1118.045,854.789 1108.858,829.549 1100.238,853.231  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_207_" x1="1327.1937" x2="1399.1322" y1="671.7302" y2="671.7302">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#23C4CB" points="1327.194,643.721 1369.965,717.802 1399.132,693.328 1342.35,625.658  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_208_" x1="1108.858" x2="1342.3502" y1="707.4589" y2="707.4589">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BFE4B1" points="1118.045,804.309 1108.858,829.549 1118.045,854.789 1283.549,568.126 1327.194,643.721    1342.35,625.658 1287.365,560.129 1132.216,828.854  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_209_" x1="1118.0446" x2="1287.3646" y1="661.0579" y2="661.0579">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9CB689" points="1118.045,804.309 1132.216,828.854 1287.365,560.129 1231.256,493.262  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_210_" x1="1045.3685" x2="1068.3314" y1="960.7813" y2="960.7813">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5C533D" points="1045.369,980.668 1060.357,962.806 1068.331,940.895  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_211_" x1="1444.3479" x2="1585.6146" y1="1032.653" y2="1032.653">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#409171" points="1482.335,1091.319 1585.615,1091.319 1517.873,973.987 1444.348,986.951  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_212_" x1="1060.3566" x2="1079.9899" y1="941.7538" y2="941.7538">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F3D4E2" points="1060.357,962.806 1075.814,944.384 1079.99,920.702 1068.331,940.895  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_213_" x1="1411.3724" x2="1517.8732" y1="932.3765" y2="932.3765">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="1411.372,896.352 1444.348,986.951 1517.873,973.987 1462.34,877.801  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_214_" x1="1381.1593" x2="1462.3405" y1="845.3285" y2="845.3285">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E90505" points="1381.159,813.342 1411.372,896.352 1462.34,877.801 1414.134,794.305  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_215_" x1="1075.814" x2="1092.0135" y1="922.1301" y2="922.1301">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#54AAEB" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#67B1DD" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#72B5D4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#76B6D1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9193A3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#A46A73" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#B1334D" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFC2AF" points="1079.99,920.702 1075.814,944.384 1092.014,925.078 1092.014,899.876  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_216_" x1="1351.9022" x2="1414.1335" y1="765.5724" y2="765.5724">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF9D7D" points="1351.902,732.959 1381.159,813.342 1414.134,794.305 1369.965,717.802  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_217_" x1="1092.0135" x2="1109.2788" y1="901.5644" y2="901.5644">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F9833A" points="1092.014,899.876 1092.014,925.078 1109.279,904.502 1104.615,878.05  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_218_" x1="1104.6146" x2="1369.965" y1="774.1115" y2="774.1115">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F2B8A0" points="1118.045,854.789 1104.615,878.05 1109.279,904.502 1322.048,650.934 1351.902,732.959    1369.965,717.802 1327.194,643.721 1127.738,881.422  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_219_" x1="1118.0446" x2="1327.1937" y1="724.7744" y2="724.7744">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#54AAEB" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#67B1DD" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#72B5D4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#76B6D1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9193A3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#A46A73" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#B1334D" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FEE394" points="1118.045,854.789 1127.738,881.422 1327.194,643.721 1283.549,568.126  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_220_" x1="1407.675" x2="1528.6725" y1="1154.9752" y2="1154.9752">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#9300AB" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#94EC2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#75C89A" points="1426.961,1200.697 1528.672,1218.631 1482.335,1091.319 1407.675,1091.319  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_221_" x1="1015.8485" x2="1045.3685" y1="998.2579" y2="998.2579">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#21870C" points="1015.849,1015.848 1033.71,1000.861 1045.369,980.668  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_222_" x1="1390.933" x2="1482.3346" y1="1039.1351" y2="1039.1351">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E8E8BF" points="1390.933,996.37 1407.675,1091.319 1482.335,1091.319 1444.348,986.951  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_223_" x1="1033.7102" x2="1060.3566" y1="981.8331" y2="981.8331">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E84A26" points="1033.71,1000.861 1052.132,985.403 1060.357,962.806 1045.369,980.668  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_224_" x1="1052.1317" x2="1075.814" y1="964.8936" y2="964.8936">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="1060.357,962.806 1052.132,985.403 1071.438,969.203 1075.814,944.384  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_225_" x1="1375.5934" x2="1444.3479" y1="946.3611" y2="946.3611">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF9D2E" points="1390.933,996.37 1444.348,986.951 1411.372,896.352 1375.593,909.375  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_226_" x1="1360.7391" x2="1411.3724" y1="861.3586" y2="861.3586">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#ECD26E" points="1360.739,825.132 1375.593,909.375 1411.372,896.352 1381.159,813.342  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_227_" x1="1071.4376" x2="1092.0135" y1="947.1409" y2="947.1409">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#08CFCB" points="1071.438,969.203 1092.014,951.938 1092.014,925.078 1075.814,944.384  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_228_" x1="1092.0135" x2="1381.1593" y1="842.4485" y2="842.4485">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5BCDCB" points="1114.2,932.414 1109.279,904.502 1092.014,925.078 1092.014,951.938 1345.582,739.169    1360.739,825.132 1381.159,813.342 1351.902,732.959  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_229_" x1="1109.2788" x2="1351.9022" y1="791.6743" y2="791.6743">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F9D837" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26522" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8C856B" points="1109.279,904.502 1114.2,932.414 1351.902,732.959 1322.048,650.934  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_230_" x1="980.6676" x2="1015.8485" y1="1030.6085" y2="1030.6085">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BF0D0D" points="980.668,1045.369 1000.861,1033.71 1015.849,1015.848  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_231_" x1="1353.4362" x2="1450.4878" y1="1260.9272" y2="1260.9272">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F28883" points="1353.436,1298.798 1450.488,1334.122 1426.961,1200.697 1353.436,1187.733  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_232_" x1="1353.4362" x2="1426.9613" y1="1146.0079" y2="1146.0079">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C3E1A3" points="1353.436,1091.319 1353.436,1187.733 1426.961,1200.697 1407.675,1091.319  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_233_" x1="1000.8606" x2="1033.7102" y1="1017.2853" y2="1017.2853">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9D4A50" points="1000.861,1033.71 1021.686,1021.686 1033.71,1000.861 1015.849,1015.848  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_234_" x1="1021.6864" x2="1052.1317" y1="1003.5447" y2="1003.5447">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#288D85" points="1033.71,1000.861 1021.686,1021.686 1043.512,1009.085 1052.132,985.403  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_235_" x1="1353.4362" x2="1407.675" y1="1043.8444" y2="1043.8444">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#8279C6" points="1353.436,1091.319 1407.675,1091.319 1390.933,996.37 1353.436,1002.982  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_236_" x1="1353.4362" x2="1390.933" y1="956.1782" y2="956.1782">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#947235" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EEDE9E" points="1353.436,917.439 1353.436,1002.982 1390.933,996.37 1375.593,909.375  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_237_" x1="1043.5121" x2="1071.4376" y1="989.1444" y2="989.1444">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="1043.512,1009.085 1066.774,995.655 1071.438,969.203 1052.132,985.403  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_238_" x1="1066.7736" x2="1375.5934" y1="910.3937" y2="910.3937">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00CFFF" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E68373" points="1092.014,951.938 1071.438,969.203 1066.774,995.655 1353.436,830.151 1353.436,917.439    1375.593,909.375 1360.739,825.132 1092.014,980.281  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_239_" x1="1092.0135" x2="1360.7391" y1="859.7251" y2="859.7251">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#4052D2" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#00C1FF" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F6EBDD" points="1092.014,951.938 1092.014,980.281 1360.739,825.132 1345.582,739.169  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_240_" x1="1263.9929" x2="1353.4362" y1="1353.7721" y2="1353.7721">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BAC08A" points="1263.993,1382.641 1353.436,1434.281 1353.436,1298.798 1283.279,1273.263  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_241_" x1="940.8949" x2="980.6676" y1="1056.85" y2="1056.85">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#F5AE28" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6FBE45" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BAC08A" points="940.895,1068.331 962.806,1060.356 980.668,1045.369  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_242_" x1="962.8058" x2="1000.8606" y1="1047.0333" y2="1047.0333">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#FFDB00" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F0E6A2" points="962.806,1060.356 985.403,1052.132 1000.861,1033.71 980.668,1045.369  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_243_" x1="1283.2792" x2="1353.4362" y1="1238.556" y2="1238.556">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FBCD60" points="1300.021,1178.314 1283.279,1273.263 1353.436,1298.798 1353.436,1187.733  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_244_" x1="985.4031" x2="1021.6864" y1="1036.9091" y2="1036.9091">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#00AB4E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD268F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9D0344" points="1000.861,1033.71 985.403,1052.132 1009.085,1043.512 1021.686,1021.686  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_245_" x1="1300.0212" x2="1353.4362" y1="1139.5258" y2="1139.5258">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FBCD60" points="1300.021,1178.314 1353.436,1187.733 1353.436,1091.319 1315.361,1091.319  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_246_" x1="1315.3608" x2="1353.4362" y1="1047.1503" y2="1047.1503">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="1330.215,1007.076 1315.361,1091.319 1353.436,1091.319 1353.436,1002.982  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_247_" x1="1009.0853" x2="1043.5121" y1="1026.2987" y2="1026.2987">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#734F3D" points="1009.085,1043.512 1034.325,1034.325 1043.512,1009.085 1021.686,1021.686  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_248_" x1="1034.3254" x2="1353.4362" y1="975.8824" y2="975.8824">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B30000" points="1066.774,995.655 1043.512,1009.085 1034.325,1034.325 1345.373,921.113    1330.215,1007.076 1353.436,1002.982 1353.436,917.439 1061.852,1023.567  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_249_" x1="1061.8519" x2="1353.4362" y1="926.8589" y2="926.8589">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#AD00A1" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F1D38D" points="1066.774,995.655 1061.852,1023.567 1353.436,917.439 1353.436,830.151  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_250_" x1="897.7393" x2="940.8949" y1="1076.1851" y2="1076.1851">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D5310B" points="897.739,1084.039 920.702,1079.99 940.895,1068.331  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_251_" x1="1161.3492" x2="1263.9929" y1="1430.6887" y2="1430.6887">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#95DBFF" points="1161.349,1449.679 1240.466,1516.066 1263.993,1382.641 1199.336,1345.311  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_252_" x1="920.702" x2="962.8058" y1="1070.1731" y2="1070.1731">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0494" style="stop-color:#2BC0F5" />
+		<ns0:stop fill="#FFDB98" offset="0.1046" style="stop-color:#1EDBED" />
+		<ns0:stop fill="#FFDB98" offset="0.1611" style="stop-color:#14EEE7" />
+		<ns0:stop fill="#FFDB98" offset="0.2191" style="stop-color:#0EF9E3" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#0CFDE2" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#4EF33F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#97ED3C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E8E93A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F4D599" points="920.702,1079.99 944.384,1075.814 962.806,1060.356 940.895,1068.331  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_253_" x1="1199.3358" x2="1283.2792" y1="1318.6766" y2="1318.6766">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#71ADA0" points="1232.311,1254.712 1199.336,1345.311 1263.993,1382.641 1283.279,1273.263  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_254_" x1="1232.3113" x2="1300.0212" y1="1222.4827" y2="1222.4827">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2F8639" points="1232.311,1254.712 1283.279,1273.263 1300.021,1178.314 1262.524,1171.702  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_255_" x1="944.3842" x2="985.4031" y1="1063.9728" y2="1063.9728">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#56A292" points="962.806,1060.356 944.384,1075.814 969.203,1071.438 985.403,1052.132  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_256_" x1="969.2035" x2="1009.0853" y1="1057.4749" y2="1057.4749">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#55687B" points="969.203,1071.438 995.655,1066.773 1009.085,1043.512 985.403,1052.132  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_257_" x1="1262.5244" x2="1315.3608" y1="1134.8165" y2="1134.8165">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#805D46" points="1291.782,1091.319 1262.524,1171.702 1300.021,1178.314 1315.361,1091.319  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_258_" x1="995.6554" x2="1330.2151" y1="1049.1975" y2="1049.1975">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#CED37D" points="1034.325,1034.325 1009.085,1043.512 995.655,1066.773 1321.636,1009.294    1291.782,1091.319 1315.361,1091.319 1330.215,1007.076 1024.632,1060.959  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_259_" x1="1024.6317" x2="1345.3727" y1="991.0361" y2="991.0361">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B7BF27" points="1034.325,1034.325 1024.632,1060.959 1330.215,1007.076 1345.373,921.113  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_260_" x1="1048.624" x2="1161.3492" y1="1489.34" y2="1489.34">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FEA221" points="1048.624,1497.874 1115.011,1576.991 1161.349,1449.679 1104.157,1401.689  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_261_" x1="852.5116" x2="897.7393" y1="1088.0261" y2="1088.0261">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FAD7BA" points="852.512,1092.014 875.828,1092.014 897.739,1084.039  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_262_" x1="875.8285" x2="920.702" y1="1086.0017" y2="1086.0017">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="875.828,1092.014 899.876,1092.014 920.702,1079.99 897.739,1084.039  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_263_" x1="1104.1569" x2="1199.3358" y1="1383.9354" y2="1383.9354">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#97D1BD" points="1152.364,1318.192 1104.157,1401.689 1161.349,1449.679 1199.336,1345.311  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_264_" x1="1152.3636" x2="1232.3113" y1="1293.5005" y2="1293.5005">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#17CFA4" points="1152.364,1318.192 1199.336,1345.311 1232.311,1254.712 1196.532,1241.69  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_265_" x1="899.8761" x2="944.3842" y1="1083.9138" y2="1083.9138">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF9178" points="920.702,1079.99 899.876,1092.014 925.078,1092.014 944.384,1075.814  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_266_" x1="1196.5322" x2="1262.5244" y1="1211.16" y2="1211.16">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F56218" points="1239.303,1167.608 1196.532,1241.69 1232.311,1254.712 1262.524,1171.702  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_267_" x1="925.0782" x2="969.2035" y1="1081.7256" y2="1081.7256">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#190033" points="925.078,1092.014 951.938,1092.014 969.203,1071.438 944.384,1075.814  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_268_" x1="951.9382" x2="1291.7816" y1="1119.2379" y2="1119.2379">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9D92FF" points="995.655,1066.773 969.203,1071.438 951.938,1092.014 1282.948,1092.014    1239.303,1167.608 1262.524,1171.702 1291.782,1091.319 981.484,1091.319  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_269_" x1="981.484" x2="1321.6361" y1="1050.3065" y2="1050.3065">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#1C3A50" points="995.655,1066.773 981.484,1091.319 1291.782,1091.319 1321.636,1009.294  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_270_" x1="806.5863" x2="852.5116" y1="1094.0381" y2="1094.0381">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#48A0D0" points="806.586,1092.014 829.549,1096.063 852.512,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_271_" x1="929.2423" x2="1048.624" y1="1527.944" y2="1527.944">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF9915" points="929.242,1525.763 980.882,1615.206 1048.624,1497.874 1000.634,1440.682  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_272_" x1="829.549" x2="875.8285" y1="1096.126" y2="1096.126">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E28164" points="829.549,1096.063 853.231,1100.238 875.828,1092.014 852.512,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_273_" x1="1000.6339" x2="1104.1569" y1="1432.3494" y2="1432.3494">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#54192C" points="1062.607,1366.825 1000.634,1440.682 1048.624,1497.874 1104.157,1401.689  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_274_" x1="853.2313" x2="899.8761" y1="1098.3141" y2="1098.3141">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#006F61" points="875.828,1092.014 853.231,1100.238 878.05,1104.615 899.876,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_275_" x1="1062.6073" x2="1152.3636" y1="1350.4214" y2="1350.4214">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A28D92" points="1062.607,1366.825 1104.157,1401.689 1152.364,1318.192 1119.39,1299.154  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_276_" x1="1119.3895" x2="1196.5322" y1="1275.9086" y2="1275.9086">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DEEAA6" points="1174.375,1233.625 1119.39,1299.154 1152.364,1318.192 1196.532,1241.69  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_277_" x1="878.0504" x2="925.0782" y1="1100.6462" y2="1100.6462">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#3EA3AF" points="878.05,1104.615 904.502,1109.279 925.078,1092.014 899.876,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_278_" x1="904.5023" x2="1239.3033" y1="1166.8516" y2="1166.8516">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B88216" points="951.938,1092.014 925.078,1092.014 904.502,1109.279 1230.483,1166.758    1174.375,1233.625 1196.532,1241.69 1239.303,1167.608 933.72,1113.725  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_279_" x1="933.72" x2="1282.9478" y1="1129.8107" y2="1129.8107">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C71035" points="951.938,1092.014 933.72,1113.725 1239.303,1167.608 1282.948,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_280_" x1="806.8314" x2="929.2423" y1="1545.3274" y2="1545.3274">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFB291" points="806.831,1532.497 842.155,1629.549 929.242,1525.763 891.913,1461.106  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_281_" x1="761.3584" x2="806.5863" y1="1088.0261" y2="1088.0261">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#A80E38" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A9913E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFD38C" points="761.358,1084.039 783.269,1092.014 806.586,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_282_" x1="783.2692" x2="829.549" y1="1096.126" y2="1096.126">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#302722" points="783.269,1092.014 805.867,1100.238 829.549,1096.063 806.586,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_283_" x1="891.9126" x2="1000.6339" y1="1462.4475" y2="1462.4475">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F59105" points="965.77,1399.132 891.913,1461.106 929.242,1525.763 1000.634,1440.682  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_284_" x1="805.8666" x2="853.2313" y1="1102.4603" y2="1102.4603">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FE926F" points="829.549,1096.063 805.867,1100.238 829.549,1108.858 853.231,1100.238  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_285_" x1="965.7697" x2="1062.6073" y1="1391.516" y2="1391.516">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="965.77,1399.132 1000.634,1440.682 1062.607,1366.825 1033.44,1342.35  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_286_" x1="1033.4401" x2="1119.3895" y1="1327.0946" y2="1327.0946">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#827272" points="1098.969,1287.365 1033.44,1342.35 1062.607,1366.825 1119.39,1299.154  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_287_" x1="829.549" x2="878.0504" y1="1109.1415" y2="1109.1415">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#F5AE28" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6FBE45" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FE8EA3" points="829.549,1108.858 854.789,1118.045 878.05,1104.615 853.231,1100.238  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_288_" x1="854.7889" x2="1174.3749" y1="1201.8844" y2="1201.8844">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#007DFF" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#28F584" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#5845BE" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#66BDB1" points="904.502,1109.279 878.05,1104.615 854.789,1118.045 1165.836,1231.256 1098.969,1287.365    1119.39,1299.154 1174.375,1233.625 882.791,1127.497  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_289_" x1="882.7906" x2="1230.483" y1="1171.452" y2="1171.452">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F1DCB0" points="904.502,1109.279 882.791,1127.497 1174.375,1233.625 1230.483,1166.758  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_290_" x1="718.203" x2="761.3584" y1="1076.1851" y2="1076.1851">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#61BEAC" points="718.203,1068.331 738.396,1079.99 761.358,1084.039  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_291_" x1="685.111" x2="806.8314" y1="1540.9623" y2="1540.9623">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E9440A" points="685.111,1517.873 703.045,1619.584 806.831,1532.497 781.297,1462.34  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_292_" x1="738.3959" x2="783.2692" y1="1086.0017" y2="1086.0017">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3C3795" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A53594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D11010" points="738.396,1079.99 759.222,1092.014 783.269,1092.014 761.358,1084.039  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_293_" x1="781.2965" x2="891.9126" y1="1473.3154" y2="1473.3154">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#66C7FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0296" style="stop-color:#63BEF9" />
+		<ns0:stop fill="#FFDB98" offset="0.1097" style="stop-color:#5EABEC" />
+		<ns0:stop fill="#FFDB98" offset="0.1921" style="stop-color:#5AA0E4" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#599CE1" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#7524B3" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#7E2161" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#923B2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#63505A" points="864.793,1414.133 781.297,1462.34 806.831,1532.497 891.913,1461.106  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_294_" x1="864.7931" x2="965.7697" y1="1415.5354" y2="1415.5354">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D4C2AD" points="864.793,1414.133 891.913,1461.106 965.77,1399.132 941.295,1369.965  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_295_" x1="759.2218" x2="805.8666" y1="1098.3141" y2="1098.3141">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#1A6152" points="783.269,1092.014 759.222,1092.014 781.047,1104.615 805.867,1100.238  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_296_" x1="941.2954" x2="1033.4401" y1="1363.163" y2="1363.163">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#3948CE" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#C90C0C" points="1015.377,1327.194 941.295,1369.965 965.77,1399.132 1033.44,1342.35  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_297_" x1="781.0475" x2="829.549" y1="1109.1415" y2="1109.1415">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2E1919" points="781.047,1104.615 804.309,1118.045 829.549,1108.858 805.867,1100.238  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_298_" x1="804.3088" x2="1098.9691" y1="1225.6041" y2="1225.6041">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F9D837" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26522" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FAE9C0" points="854.789,1118.045 829.549,1108.858 804.309,1118.045 1090.972,1283.549    1015.377,1327.194 1033.44,1342.35 1098.969,1287.365 830.244,1132.216  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_299_" x1="830.2437" x2="1165.8363" y1="1202.7046" y2="1202.7046">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFC9A3" points="854.789,1118.045 830.244,1132.216 1098.969,1287.365 1165.836,1231.256  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_300_" x1="567.7791" x2="685.111" y1="1514.9813" y2="1514.9813">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F68C1B" points="567.779,1482.335 567.779,1585.615 685.111,1517.873 672.146,1444.348  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_301_" x1="678.4303" x2="718.203" y1="1056.85" y2="1056.85">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF166" />
+		<ns0:stop fill="#FFDB98" offset="0.0782" style="stop-color:#F0E660" />
+		<ns0:stop fill="#FFDB98" offset="0.1758" style="stop-color:#E5DD5B" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#E1DA59" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#24B34B" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#21777E" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2E3192" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EED194" points="678.43,1045.369 696.292,1060.356 718.203,1068.331  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_302_" x1="696.2921" x2="738.3959" y1="1070.1731" y2="1070.1731">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EB1212" points="696.292,1060.356 714.714,1075.814 738.396,1079.99 718.203,1068.331  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_303_" x1="672.1464" x2="781.2965" y1="1464.6228" y2="1464.6228">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#264BA0" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFFEC7" points="762.746,1411.372 672.146,1444.348 685.111,1517.873 781.297,1462.34  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_304_" x1="762.7457" x2="864.7931" y1="1421.7499" y2="1421.7499">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#1FF626" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#C80054" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#75F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E6A983" points="762.746,1411.372 781.297,1462.34 864.793,1414.133 845.755,1381.159  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_305_" x1="714.7135" x2="759.2218" y1="1083.9137" y2="1083.9137">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0645" style="stop-color:#EBE054" />
+		<ns0:stop fill="#FFDB98" offset="0.1334" style="stop-color:#DDD267" />
+		<ns0:stop fill="#FFDB98" offset="0.2044" style="stop-color:#D4CA72" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#D1C776" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#9FA391" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#6A7FA4" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#3367B1" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E9EABD" points="738.396,1079.99 714.714,1075.814 734.02,1092.014 759.222,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_306_" x1="845.7555" x2="941.2954" y1="1383.0178" y2="1383.0178">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#2A9D90" points="926.139,1351.902 845.755,1381.159 864.793,1414.133 941.295,1369.965  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_307_" x1="734.0197" x2="781.0475" y1="1100.6462" y2="1100.6462">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#AD9A6C" points="734.02,1092.014 754.596,1109.279 781.047,1104.615 759.222,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_308_" x1="754.5956" x2="1015.3773" y1="1237.2898" y2="1237.2898">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B78020" points="804.309,1118.045 781.047,1104.615 754.596,1109.279 1008.164,1322.048 926.139,1351.902    941.295,1369.965 1015.377,1327.194 777.676,1127.738  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_309_" x1="777.6755" x2="1090.9716" y1="1222.6191" y2="1222.6191">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00AB66" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#EC5C2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F9BA84" points="804.309,1118.045 777.676,1127.738 1015.377,1327.194 1090.972,1283.549  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_310_" x1="643.2496" x2="678.4303" y1="1030.6086" y2="1030.6086">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37FBF7" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#EDE71C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#2DF520" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A3F6FF" points="643.25,1015.849 658.237,1033.71 678.43,1045.369  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_311_" x1="440.4665" x2="567.7791" y1="1468.1738" y2="1468.1738">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#FFDB00" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFE4B8" points="458.401,1426.961 440.467,1528.672 567.779,1482.335 567.779,1407.675  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_312_" x1="658.2374" x2="696.2921" y1="1047.0333" y2="1047.0333">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F5A975" points="658.237,1033.71 673.695,1052.132 696.292,1060.356 678.43,1045.369  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_313_" x1="567.7791" x2="672.1464" y1="1436.6338" y2="1436.6338">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#42142A" points="662.728,1390.933 567.779,1407.675 567.779,1482.335 672.146,1444.348  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_314_" x1="673.6949" x2="714.7135" y1="1063.9728" y2="1063.9728">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0266" style="stop-color:#46B0E9" />
+		<ns0:stop fill="#FFDB98" offset="0.0748" style="stop-color:#58C5C7" />
+		<ns0:stop fill="#FFDB98" offset="0.124" style="stop-color:#66D5AC" />
+		<ns0:stop fill="#FFDB98" offset="0.174" style="stop-color:#6FE199" />
+		<ns0:stop fill="#FFDB98" offset="0.2253" style="stop-color:#75E88E" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#77EA8A" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#CBDA87" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CDC16C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE9F2F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFF9DE" points="696.292,1060.356 673.695,1052.132 689.894,1071.438 714.714,1075.814  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_315_" x1="662.7279" x2="762.7457" y1="1409.9707" y2="1409.9707">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0494" style="stop-color:#2BC0F5" />
+		<ns0:stop fill="#FFDB98" offset="0.1046" style="stop-color:#1EDBED" />
+		<ns0:stop fill="#FFDB98" offset="0.1611" style="stop-color:#14EEE7" />
+		<ns0:stop fill="#FFDB98" offset="0.2191" style="stop-color:#0EF9E3" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#0CFDE2" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#4EF33F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#97ED3C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E8E93A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFB969" points="662.728,1390.933 672.146,1444.348 762.746,1411.372 749.723,1375.593  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_316_" x1="689.8944" x2="734.0197" y1="1081.7256" y2="1081.7256">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF3D5A" points="689.894,1071.438 707.16,1092.014 734.02,1092.014 714.714,1075.814  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_317_" x1="749.7231" x2="845.7555" y1="1386.0558" y2="1386.0558">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#37E9F9" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#7F440D" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#6CF222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E6E169" points="833.966,1360.739 749.723,1375.593 762.746,1411.372 845.755,1381.159  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_318_" x1="707.1597" x2="926.139" y1="1236.5864" y2="1236.5864">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#153A42" points="754.596,1109.279 734.02,1092.014 707.16,1092.014 919.929,1345.582 833.966,1360.739    845.755,1381.159 926.139,1351.902 726.684,1114.2  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_319_" x1="726.6836" x2="1008.1636" y1="1230.5906" y2="1230.5906">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#00B4FC" points="754.596,1109.279 726.684,1114.2 926.139,1351.902 1008.164,1322.048  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_320_" x1="324.976" x2="471.3654" y1="1401.962" y2="1401.962">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00A84F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BE7A6F" points="360.3,1353.436 324.976,1450.488 458.401,1426.961 471.365,1353.436  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_321_" x1="613.7292" x2="643.2496" y1="998.2581" y2="998.2581">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F9D837" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26522" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9DC0C9" points="613.729,980.668 625.388,1000.861 643.25,1015.849  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_322_" x1="458.4009" x2="567.7791" y1="1390.1987" y2="1390.1987">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FBD437" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#ED1C24" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F58220" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EAF27E" points="567.779,1353.436 471.365,1353.436 458.401,1426.961 567.779,1407.675  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_323_" x1="625.3878" x2="658.2374" y1="1017.2855" y2="1017.2855">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3BA2FF" />
+		<ns0:stop fill="#FFDB98" offset="0.0494" style="stop-color:#2BC0F5" />
+		<ns0:stop fill="#FFDB98" offset="0.1046" style="stop-color:#1EDBED" />
+		<ns0:stop fill="#FFDB98" offset="0.1611" style="stop-color:#14EEE7" />
+		<ns0:stop fill="#FFDB98" offset="0.2191" style="stop-color:#0EF9E3" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#0CFDE2" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#4EF33F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#97ED3C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E8E93A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D4C2AD" points="625.388,1000.861 637.411,1021.686 658.237,1033.71 643.25,1015.849  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_324_" x1="567.7791" x2="662.7279" y1="1380.5557" y2="1380.5557">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#007A62" points="567.779,1353.436 567.779,1407.675 662.728,1390.933 656.116,1353.436  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_325_" x1="637.4115" x2="673.6949" y1="1036.9091" y2="1036.9091">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFB969" points="658.237,1033.71 637.411,1021.686 650.013,1043.512 673.695,1052.132  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_326_" x1="656.1163" x2="749.7231" y1="1372.1846" y2="1372.1846">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0401" style="stop-color:#FEE72E" />
+		<ns0:stop fill="#FFDB98" offset="0.1171" style="stop-color:#FED51B" />
+		<ns0:stop fill="#FFDB98" offset="0.1964" style="stop-color:#FDCA10" />
+		<ns0:stop fill="#FFDB98" offset="0.2809" style="stop-color:#FDC70C" />
+		<ns0:stop fill="#FFDB98" offset="0.6685" style="stop-color:#F3903F" />
+		<ns0:stop fill="#FFDB98" offset="0.8876" style="stop-color:#ED683C" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#E93E3A" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#732756" points="741.659,1353.436 656.116,1353.436 662.728,1390.933 749.723,1375.593  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_327_" x1="650.0126" x2="689.8944" y1="1057.4749" y2="1057.4749">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#505A62" points="650.013,1043.512 663.443,1066.773 689.894,1071.438 673.695,1052.132  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_328_" x1="663.4425" x2="833.9659" y1="1221.1835" y2="1221.1835">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F68B1F" />
+		<ns0:stop fill="#FFDB98" offset="0.4888" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.9944" style="stop-color:#F26122" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F5CA84" points="707.16,1092.014 689.894,1071.438 663.443,1066.773 828.947,1353.436 741.659,1353.436    749.723,1375.593 833.966,1360.739 678.817,1092.014  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_329_" x1="678.8171" x2="919.9286" y1="1226.3763" y2="1226.3763">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#855058" points="707.16,1092.014 678.817,1092.014 833.966,1360.739 919.929,1345.582  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_330_" x1="590.7665" x2="613.7292" y1="960.7813" y2="960.7813">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#FFDB00" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF3D5A" points="590.766,940.895 598.741,962.806 613.729,980.668  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_331_" x1="224.8167" x2="385.8349" y1="1308.7145" y2="1308.7145">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E11B4C" points="276.457,1263.993 224.817,1353.436 360.3,1353.436 385.835,1283.279  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_332_" x1="579.1082" x2="598.7413" y1="941.7538" y2="941.7538">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#3452C6" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A98A2E" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#3B8C88" points="579.108,920.702 583.284,944.384 598.741,962.806 590.766,940.895  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_333_" x1="276.4568" x2="404.3858" y1="1241.3075" y2="1241.3075">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#9F5D4D" points="404.386,1232.311 313.787,1199.336 276.457,1263.993 385.835,1283.279  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_334_" x1="313.7865" x2="417.4082" y1="1192.3375" y2="1192.3375">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DA9A6C" points="340.906,1152.364 313.787,1199.336 404.386,1232.311 417.408,1196.532  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_335_" x1="567.0843" x2="583.2839" y1="922.1301" y2="922.1301">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FF3D5A" points="579.108,920.702 567.084,899.876 567.084,925.078 583.284,944.384  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_336_" x1="549.819" x2="567.0843" y1="901.5643" y2="901.5643">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#00AD8E" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F26922" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BF3B52" points="554.483,878.05 549.819,904.502 567.084,925.078 567.084,899.876  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_337_" x1="340.906" x2="425.4728" y1="1157.9609" y2="1157.9609">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A02632" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#1FF246" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F7C097" points="425.473,1174.375 359.944,1119.39 340.906,1152.364 417.408,1196.532  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_338_" x1="359.9436" x2="554.4832" y1="1014.582" y2="1014.582">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#0080C8" />
+		<ns0:stop fill="#FFDB98" offset="0.4944" style="stop-color:#833594" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F2981F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FEFCC1" points="549.819,904.502 554.483,878.05 541.053,854.789 427.841,1165.836 371.733,1098.969    359.944,1119.39 425.473,1174.375 531.601,882.791  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_339_" x1="371.7332" x2="541.0533" y1="998.04" y2="998.04">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DBD5AB" points="541.053,854.789 526.882,830.244 371.733,1098.969 427.841,1165.836  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_340_" x1="598.7413" x2="625.3878" y1="981.8332" y2="981.8332">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#00A995" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#006EB9" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#BEECAD" points="598.741,962.806 606.966,985.403 625.388,1000.861 613.729,980.668  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_341_" x1="360.2999" x2="480.7839" y1="1318.3577" y2="1318.3577">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E07C4B" points="480.784,1300.021 385.835,1283.279 360.3,1353.436 471.365,1353.436  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_342_" x1="385.8349" x2="487.3956" y1="1266.1663" y2="1266.1663">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B5C634" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A92E91" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#995E56" points="404.386,1232.311 385.835,1283.279 480.784,1300.021 487.396,1262.524  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_343_" x1="583.2839" x2="606.9662" y1="964.8937" y2="964.8937">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#5652C7" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#802109" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#47F141" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#700B30" points="598.741,962.806 583.284,944.384 587.66,969.204 606.966,985.403  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_344_" x1="567.0843" x2="587.6603" y1="947.1409" y2="947.1409">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F7C097" points="567.084,925.078 567.084,951.938 587.66,969.204 583.284,944.384  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_345_" x1="404.3858" x2="491.4901" y1="1229.5283" y2="1229.5283">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#75ED30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#97F023" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#874250" points="491.49,1239.303 417.408,1196.532 404.386,1232.311 487.396,1262.524  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_346_" x1="417.4082" x2="567.0843" y1="1071.9028" y2="1071.9028">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#7C00AB" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#BD9C26" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#D8B847" points="567.084,951.938 567.084,925.078 549.819,904.502 492.34,1230.483 425.473,1174.375    417.408,1196.532 491.49,1239.303 545.373,933.72  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_347_" x1="425.4728" x2="549.819" y1="1056.6368" y2="1056.6368">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#B90046" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7D00AA" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#DC6B43" points="549.819,904.502 531.601,882.791 425.473,1174.375 492.34,1230.483  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_348_" x1="471.3654" x2="567.7791" y1="1326.7288" y2="1326.7288">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#B6DEAE" points="480.784,1300.021 471.365,1353.436 567.779,1353.436 567.779,1315.361  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_349_" x1="606.9662" x2="637.4115" y1="1003.5448" y2="1003.5448">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#A6CE39" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#552F7F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DA2128" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#493335" points="625.388,1000.861 606.966,985.403 615.586,1009.085 637.411,1021.686  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_350_" x1="480.7839" x2="567.7791" y1="1288.9426" y2="1288.9426">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#B0D240" />
+		<ns0:stop fill="#FFDB98" offset="0.5169" style="stop-color:#FFDF00" />
+		<ns0:stop fill="#FFDB98" offset="0.95" style="stop-color:#00AA4F" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#829D74" points="567.779,1291.782 487.396,1262.524 480.784,1300.021 567.779,1315.361  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_351_" x1="587.6603" x2="615.5858" y1="989.1445" y2="989.1445">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#8FC752" />
+		<ns0:stop fill="#FFDB98" offset="0.5112" style="stop-color:#363180" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F19441" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#EDE42F" points="587.66,969.204 592.324,995.655 615.586,1009.085 606.966,985.403  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_352_" x1="487.3956" x2="592.3245" y1="1121.86" y2="1121.86">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#6E7975" points="592.324,995.655 587.66,969.204 567.084,951.938 567.084,1282.948 491.49,1239.303    487.396,1262.524 567.779,1291.782 567.779,981.484  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_353_" x1="491.4901" x2="567.0843" y1="1108.3339" y2="1108.3339">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#7C00A8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#5C6A53" points="567.084,951.938 545.373,933.72 491.49,1239.303 567.084,1282.948  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_354_" x1="615.5858" x2="650.0126" y1="1026.2987" y2="1026.2987">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#DA2128" />
+		<ns0:stop fill="#FFDB98" offset="0.5225" style="stop-color:#ED6C30" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#F05123" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#F7F9B7" points="615.586,1009.085 624.772,1034.325 650.013,1043.512 637.411,1021.686  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_355_" x1="567.7791" x2="656.1163" y1="1334.3986" y2="1334.3986">
+		<ns0:stop fill="#FFDB98" offset="0.05" style="stop-color:#FFF200" />
+		<ns0:stop fill="#FFDB98" offset="0.5337" style="stop-color:#0E58A8" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#A93E89" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#A7C2A1" points="652.022,1330.215 567.779,1315.361 567.779,1353.436 656.116,1353.436  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_356_" x1="567.7791" x2="652.0217" y1="1162.9352" y2="1162.9352">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#FFF33B" />
+		<ns0:stop fill="#FFDB98" offset="0.0662" style="stop-color:#F6D955" />
+		<ns0:stop fill="#FFDB98" offset="0.1346" style="stop-color:#EFC768" />
+		<ns0:stop fill="#FFDB98" offset="0.205" style="stop-color:#EBBC73" />
+		<ns0:stop fill="#FFDB98" offset="0.28" style="stop-color:#EAB877" />
+		<ns0:stop fill="#FFDB98" offset="0.67" style="stop-color:#DA9087" />
+		<ns0:stop fill="#FFDB98" offset="0.89" style="stop-color:#CD6C8F" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#BE2F92" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#775E59" points="624.772,1034.325 615.586,1009.085 592.324,995.655 649.804,1321.636 567.779,1291.782    567.779,1315.361 652.022,1330.215 598.139,1024.632  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_357_" x1="567.7791" x2="649.8036" y1="1151.5601" y2="1151.5601">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#51F321" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#C80054" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#66727E" points="592.324,995.655 567.779,981.484 567.779,1291.782 649.804,1321.636  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_358_" x1="624.7725" x2="741.6586" y1="1193.8809" y2="1193.8809">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#F37121" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#0080C8" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#FFB969" points="663.443,1066.773 650.013,1043.512 624.772,1034.325 737.984,1345.373 652.022,1330.215    656.116,1353.436 741.659,1353.436 635.531,1061.852  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_359_" x1="598.1392" x2="737.9844" y1="1185.0022" y2="1185.0022">
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#A90093" />
+		<ns0:stop fill="#FFDB98" offset="0" style="stop-color:#954937" />
+		<ns0:stop fill="#FFDB98" offset="0.5056" style="stop-color:#A58735" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#DAD521" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#6F84F9" points="624.772,1034.325 598.139,1024.632 652.022,1330.215 737.984,1345.373  " />
+	<ns0:linearGradient fill="#FFDB98" gradientUnits="userSpaceOnUse" id="SVGID_360_" x1="635.5306" x2="828.9474" y1="1207.644" y2="1207.644">
+		<ns0:stop fill="#FFDB98" offset="0.0056" style="stop-color:#AD00A1" />
+		<ns0:stop fill="#FFDB98" offset="0.5" style="stop-color:#DAD521" />
+		<ns0:stop fill="#FFDB98" offset="1" style="stop-color:#63F222" />
+	</ns0:linearGradient>
+	<ns0:polygon fill="#E11B4C" points="663.443,1066.773 635.531,1061.852 741.659,1353.436 828.947,1353.436  " />
+</ns0:g>
+</ns0:svg>
