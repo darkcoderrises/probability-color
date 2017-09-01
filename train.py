@@ -4,9 +4,12 @@ import glob
 import sys
 
 import numpy as np
-from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import SGDClassifier
 
 import pickle
+
+import warnings
+warnings.filterwarnings("ignore")
 
 lightness = "lightness"
 saturation = "saturation"
@@ -21,7 +24,7 @@ class Trainer(object):
         self.train_x = []
 
         self.train_y = {key: [] for key in keys}
-        self.lr = {key: LogisticRegression() for key in keys}
+        self.lr = {key: SGDClassifier(loss="log") for key in keys}
 
     def add_x(self, data):
         self.train_x.append(data)
@@ -32,11 +35,11 @@ class Trainer(object):
 
     def add(self, data):
         size_data, color_data = data
-        self.add_x(size_data)
-        self.add_y(color_data)
+        for key in  color_data.keys():
+            self.lr[key].partial_fit(size_data, color_data[key])
 
     def train(self, key):
-        self.lr[key].fit(self.train_x, self.train_y[key])
+        pass
 
     def train_all(self):
         for key in self.train_y.keys():
